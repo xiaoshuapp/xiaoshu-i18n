@@ -1,0 +1,164 @@
+{
+	"name": {
+		"message": "舒同学 - ブックマークに基づいて新しいタブ"
+	},
+	"title": {
+		"message": "舒同学"
+	},
+	"description": {
+		"message": "ブックマークで自動的に新しい新しいタブページを作成します。"
+	},
+	"gotIt": {
+		"message": "了解"
+	},
+	"save": {
+		"message": "保存"
+	},
+	"apply": {
+		"message": "適用"
+	},
+	"close": {
+		"message": "閉じる"
+	},
+	"delete": {
+		"message": "消除"
+	},
+	"done": {
+		"message": "完了"
+	},
+	"searchLabel": {
+		"message": "検索: face_with_monocle:"
+	},
+	"headerTip": {
+		"message": "ヒント"
+	},
+	"headerDark": {
+		"message": "夜間モードの追跡システムを停止しました"
+	},
+	"headerInstructions": {
+		"message": "お気に入りを一つだけ整理してすぐに、ジャンプすると自動的に返信が表示されます。"
+	},
+	"settingSkin": {
+		"message": "テーマをカスタマイズ"
+	},
+	"settingSkinColor": {
+		"message": "メインカラー"
+	},
+	"settingSkinDark": {
+		"message": "ダークモードはシステム"
+	},
+	"settingSkinBlur": {
+		"message": "あなたの砂玉を磨く"
+	},
+	"settingSkinWallpaper": {
+		"message": "背景画像"
+	},
+	"settingDark": {
+		"message": "ダークモード"
+	},
+	"settingOther": {
+		"message": "その他の設定"
+	},
+	"settingGeneral": {
+		"message": "一般設定"
+	},
+	"settingGeneralNewtab": {
+		"message": "リンクを新しいタブで開く"
+	},
+	"settingLayout": {
+		"message": "カスタムレイアウト"
+	},
+	"settingLayoutDes": {
+		"message": "設定が適用された場合、ページ内の効果が反映されます。"
+	},
+	"settingLayoutHeadLayout": {
+		"message": "先頭レイアウト"
+	},
+	"settingLayoutDisplayTipButton": {
+		"message": "電球ボタンを表示"
+	},
+	"settingLayoutSearchBoxWidth": {
+		"message": "検索ボックスの幅"
+	},
+	"settingLayoutFolderLayout": {
+		"message": "タイトル設定"
+	},
+	"settingLayoutDisplayFolderTitle": {
+		"message": "タイトルの表示"
+	},
+	"settingLayoutTitleMarginTop": {
+		"message": "ヘッダーの実行間隔"
+	},
+	"settingLayoutIconLayout": {
+		"message": "正方形のカードレイアウト"
+	},
+	"settingLayoutDisplayIconTitle": {
+		"message": "カード名を表示"
+	},
+	"settingLayoutIconWidth": {
+		"message": "マージン"
+	},
+	"settingLayoutCardLayout": {
+		"message": "タイルのレイアウト"
+	},
+	"settingLayoutCardMargin": {
+		"message": "カードの間隔"
+	},
+	"settingLayoutCardType": {
+		"message": "カード表示方法"
+	},
+	"settingLayoutCardTypeAuto": {
+		"message": "自動"
+	},
+	"settingLayoutCardTypeSquare": {
+		"message": "四角"
+	},
+	"settingLayoutCardTypeRectangle": {
+		"message": "矩形"
+	},
+	"settingLayoutCardPadding": {
+		"message": "パディングカードの内余白"
+	},
+	"settingSenior": {
+		"message": "詳細設定"
+	},
+	"settingEngine": {
+		"message": "カスタム検索エンジン"
+	},
+	"settingEngineYours": {
+		"message": "検索エンジン"
+	},
+	"settingEngineOther": {
+		"message": "その他の検索エンジン"
+	},
+	"engineIcon": {
+		"message": "検索エンジンを切り替える"
+	},
+	"engineChip": {
+		"message": "検索エンジン切り替え："
+	},
+	"engineQuick": {
+		"message": "一時的な使い方"
+	},
+	"flomoSetting": {
+		"message": "flomoの設定"
+	},
+	"flomoSend": {
+		"message": "flomoに送信して削除します"
+	},
+	"flomoText": {
+		"message": "イメージを書いてください..."
+	},
+	"flomoDesHead": {
+		"message": "最近ブックマークフォルダを完了しました"
+	},
+	"flomoDesFooter": {
+		"message": "” のいくつかは、次です："
+	},
+	"folderSetting": {
+		"message": "フォルダ設定"
+	},
+	"folderType": {
+		"message": "フォルダーの種類"
+	}
+}

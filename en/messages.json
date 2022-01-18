@@ -1,0 +1,158 @@
+{
+	"name": {
+		"message": "Xiaoshu - New Tab based on Bookmarks"
+	},
+	"title": {
+		"message": "Xiaoshu"
+	},
+	"description": {
+		"message": "Our home page has never been better organized for our favorite things. Xiaoshu is a proxy, efficient new generation of new tab browser extension. We no longer need to manage favorite folders while managing a home page!"
+	},
+	"gotIt": {
+		"message": "Got it"
+	},
+	"save": {
+		"message": "Save"
+	},
+	"apply": {
+		"message": "Apply"
+	},
+	"close": {
+		"message": "Close"
+	},
+	"delete": {
+		"message": "Delete"
+	},
+	"done": {
+		"message": "Done"
+	},
+	"searchLabel": {
+		"message": "Search here 🧐"
+	},
+	"headerTip": {
+		"message": "Tips"
+	},
+	"headerDark": {
+		"message": "Night Mode Follow System turned off"
+	},
+	"headerInstructions": {
+		"message": "You just need to sort your favorites. The little comrades will help you generate the page automatically."
+	},
+	"cardSetting": {
+		"message": "Card Effects"
+	},
+	"cardSettingType": {
+		"message": "Card Display Type"
+	},
+	"cardSettingMargin": {
+		"message": "Card Spacing"
+	},
+	"skinTheme": {
+		"message": "Themes"
+	},
+	"skinWallpaperBing": {
+		"message": "Bing Daily Wallpaper"
+	},
+	"settingSkin": {
+		"message": "Customize"
+	},
+	"settingSkinColor": {
+		"message": "Primary color"
+	},
+	"settingSkinDark": {
+		"message": "Follow system's dark theme"
+	},
+	"settingSkinWallpaper": {
+		"message": "Wallpapers"
+	},
+	"settingDark": {
+		"message": "Dark mode"
+	},
+	"settingOther": {
+		"message": "Other settings"
+	},
+	"settingGeneral": {
+		"message": "Settings"
+	},
+	"settingGeneralNewtab": {
+		"message": "Open link in new tab"
+	},
+	"settingSenior": {
+		"message": "Advanced Settings"
+	},
+	"settingLayout": {
+		"message": "Custom Layout"
+	},
+	"settingLayoutDes": {
+		"message": "Your settings will be displayed in real time on the page."
+	},
+	"settingLayoutHeadLayout": {
+		"message": "Header Layout"
+	},
+	"settingLayoutSearchBoxWidth": {
+		"message": "Search box width"
+	},
+	"settingLayoutFolderLayout": {
+		"message": "Set Title"
+	},
+	"settingLayoutDisplayFolderTitle": {
+		"message": "Show Title"
+	},
+	"settingLayoutTitleMarginTop": {
+		"message": "Header header interval size"
+	},
+	"settingLayoutIconLayout": {
+		"message": "Square Card Layout"
+	},
+	"settingLayoutDisplayIconTitle": {
+		"message": "Show square card title"
+	},
+	"settingLayoutCardLayout": {
+		"message": "Card Layout"
+	},
+	"settingLayoutCardType": {
+		"message": "Card Display Method"
+	},
+	"settingLayoutCardTypeAuto": {
+		"message": "Auto"
+	},
+	"settingLayoutCardTypeSquare": {
+		"message": "Square"
+	},
+	"settingLayoutCardTypeRectangle": {
+		"message": "Rectangle"
+	},
+	"settingEngine": {
+		"message": "Custom search engines"
+	},
+	"settingEngineYours": {
+		"message": "Your Search Engine"
+	},
+	"settingEngineOther": {
+		"message": "Other search engines"
+	},
+	"engineIcon": {
+		"message": "Toggle Search Engine"
+	},
+	"engineChip": {
+		"message": "Toggle Search Engine"
+	},
+	"engineQuick": {
+		"message": "Use temporarily"
+	},
+	"flomoSetting": {
+		"message": "Configure flomo"
+	},
+	"flomoSend": {
+		"message": "Send to flomo and delete"
+	},
+	"flomoText": {
+		"message": "Write your thoughts here"
+	},
+	"flomoDesHead": {
+		"message": "I recently completed the bookmark folder\""
+	},
+	"flomoDesFooter": {
+		"message": "\"Some of the contents are below："
+	}
+}

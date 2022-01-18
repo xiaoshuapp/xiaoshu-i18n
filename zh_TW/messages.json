@@ -1,0 +1,164 @@
+{
+	"name": {
+		"message": "小舒同學 - 基于書簽的新建標簽頁"
+	},
+	"title": {
+		"message": "小舒同學"
+	},
+	"description": {
+		"message": "自動地用你的書簽生成一個新建分頁。"
+	},
+	"gotIt": {
+		"message": "我知道了"
+	},
+	"save": {
+		"message": "儲存"
+	},
+	"apply": {
+		"message": "應用"
+	},
+	"close": {
+		"message": "關閉"
+	},
+	"delete": {
+		"message": "刪除"
+	},
+	"done": {
+		"message": "完成"
+	},
+	"searchLabel": {
+		"message": "在這裏搜索🧐"
+	},
+	"headerTip": {
+		"message": "提示"
+	},
+	"headerDark": {
+		"message": "已關閉“暗色模式跟隨系統”"
+	},
+	"headerInstructions": {
+		"message": "你只需要整理你的瀏覽器書簽，小舒同學就會自動幫你生成此分頁。"
+	},
+	"settingSkin": {
+		"message": "自定義外觀"
+	},
+	"settingSkinColor": {
+		"message": "主要顔色"
+	},
+	"settingSkinDark": {
+		"message": "暗色模式跟隨系統"
+	},
+	"settingSkinBlur": {
+		"message": "啓用毛玻璃濾鏡效果"
+	},
+	"settingSkinWallpaper": {
+		"message": "背景圖片"
+	},
+	"settingDark": {
+		"message": "暗色模式"
+	},
+	"settingOther": {
+		"message": "其他設定"
+	},
+	"settingGeneral": {
+		"message": "一般設定"
+	},
+	"settingGeneralNewtab": {
+		"message": "開啟鏈結於新分頁"
+	},
+	"settingLayout": {
+		"message": "自訂佈局"
+	},
+	"settingLayoutDes": {
+		"message": "你的設置效果會被實時的展示在頁面中。"
+	},
+	"settingLayoutHeadLayout": {
+		"message": "頭部布局"
+	},
+	"settingLayoutDisplayTipButton": {
+		"message": "顯示小燈泡按鈕"
+	},
+	"settingLayoutSearchBoxWidth": {
+		"message": "搜索框寬度"
+	},
+	"settingLayoutFolderLayout": {
+		"message": "設定標題"
+	},
+	"settingLayoutDisplayFolderTitle": {
+		"message": "顯示標題"
+	},
+	"settingLayoutTitleMarginTop": {
+		"message": "標題頂部間隔大小"
+	},
+	"settingLayoutIconLayout": {
+		"message": "正方形卡片布局"
+	},
+	"settingLayoutDisplayIconTitle": {
+		"message": "顯示正方形卡片標題"
+	},
+	"settingLayoutIconWidth": {
+		"message": "正方形卡片內邊距"
+	},
+	"settingLayoutCardLayout": {
+		"message": "卡片佈局"
+	},
+	"settingLayoutCardMargin": {
+		"message": "卡片間距"
+	},
+	"settingLayoutCardType": {
+		"message": "卡片顯示方式"
+	},
+	"settingLayoutCardTypeAuto": {
+		"message": "自動"
+	},
+	"settingLayoutCardTypeSquare": {
+		"message": "正方形"
+	},
+	"settingLayoutCardTypeRectangle": {
+		"message": "長方形"
+	},
+	"settingLayoutCardPadding": {
+		"message": "長方形卡片內邊距"
+	},
+	"settingSenior": {
+		"message": "進階設定"
+	},
+	"settingEngine": {
+		"message": "自訂搜索引擎"
+	},
+	"settingEngineYours": {
+		"message": "你的搜索引擎"
+	},
+	"settingEngineOther": {
+		"message": "其他搜索引擎"
+	},
+	"engineIcon": {
+		"message": "切換搜索引擎"
+	},
+	"engineChip": {
+		"message": "切換搜索引擎爲"
+	},
+	"engineQuick": {
+		"message": "臨時使用"
+	},
+	"flomoSetting": {
+		"message": "配置 flomo"
+	},
+	"flomoSend": {
+		"message": "發送至 flomo 並刪除"
+	},
+	"flomoText": {
+		"message": "在這裏寫寫你的感想吧"
+	},
+	"flomoDesHead": {
+		"message": "我最近完成了書簽資料夾“"
+	},
+	"flomoDesFooter": {
+		"message": "“的一些内容，内容如下："
+	},
+	"folderSetting": {
+		"message": "資料夾設定"
+	},
+	"folderType": {
+		"message": "資料集類型"
+	}
+}

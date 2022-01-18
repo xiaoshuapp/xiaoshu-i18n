@@ -1,0 +1,76 @@
+{
+	"name": { "message": "小舒同学 - 基于书签的新建标签页" },
+	"title": { "message": "小舒同学" },
+	"description": {
+		"message": "我们费尽心思折腾我们的主页，却从来没好好整理过我们的收藏夹。小舒同学是省事、高效的新一代新建标签页浏览器扩展。我们再也不需要管理收藏夹的同时还要额外管理一个主页了！"
+	},
+
+	"gotIt": { "message": "我知道了" },
+	"save": { "message": "保存" },
+	"apply": { "message": "应用" },
+	"close": { "message": "关闭" },
+	"delete": { "message": "删除" },
+	"done": { "message": "完成" },
+
+	"searchLabel": { "message": "在这里搜索🧐" },
+	"headerTip": { "message": "提示" },
+	"headerDark": { "message": "已关闭“夜间模式跟随系统”" },
+	"headerInstructions": {
+		"message": "你只需要整理你的收藏夹，小舒同学就会自动帮你生成该页。"
+	},
+
+	"windowFirst": { "message": "设置为首屏" },
+
+	"cardSetting": { "message": "卡片效果" },
+	"cardSettingType": { "message": "卡片显示类型" },
+	"cardSettingMargin": { "message": "卡片间距" },
+
+	"skinTheme": { "message": "主题" },
+	"skinWallpaperBing": { "message": "Bing 每日壁纸" },
+
+	"settingOver": { "message": "配置保存成功" },
+	"settingFail": { "message": "配置保存失败" },
+	
+	"settingSkin": { "message": "个性化" },
+	"settingSkinColor": { "message": "主要颜色" },
+	"settingSkinDark": { "message": "暗色模式跟随系统" },
+	"settingSkinWallpaper": { "message": "壁纸" },
+	"settingDark": { "message": "暗色模式" },
+
+	"settingOther": { "message": "其他设置" },
+	"settingGeneral": { "message": "设置" },
+	"settingGeneralNewtab": { "message": "在新建标签页打开链接" },
+	"settingGeneralTransition": { "message": "动画效果" },
+	"settingSenior": { "message": "高级设置" },
+
+	"settingLayout": { "message": "自定义布局" },
+	"settingLayoutDes": { "message": "你的设置效果会被实时的展示在页面中。" },
+
+	"settingLayoutHeadLayout": { "message": "头部布局" },
+	"settingLayoutSearchBoxWidth": { "message": "搜索框宽度" },
+
+	"settingLayoutFolderLayout": { "message": "设置标题" },
+	"settingLayoutDisplayFolderTitle": { "message": "显示标题" },
+	"settingLayoutTitleMarginTop": { "message": "标题顶部间隔大小" },
+
+	"settingLayoutIconLayout": { "message": "正方形卡片布局" },
+	"settingLayoutDisplayIconTitle": { "message": "显示正方形卡片标题" },
+
+	"settingLayoutCardLayout": { "message": "卡片布局" },
+	"settingLayoutCardType": { "message": "卡片显示方式" },
+	"settingLayoutCardTypeAuto": { "message": "自动" },
+	"settingLayoutCardTypeSquare": { "message": "正方形" },
+	"settingLayoutCardTypeRectangle": { "message": "长方形" },
+
+	"settingEngine": { "message": "自定义搜索引擎" },
+	"settingEngineYours": { "message": "你的搜索引擎" },
+	"settingEngineOther": { "message": "其他搜索引擎" },
+	"engineIcon": { "message": "切换搜索引擎" },
+	"engineChip": { "message": "切换搜索引擎为" },
+	"engineQuick": { "message": "临时使用" },
+
+	"flomoSetting": { "message": "配置" },
+	"flomoSend": { "message": "发送至 flomo" },
+	"flomoUrl": { "message": "查看" },
+	"flomoText": { "message": "在这里写写你的感想吧" }
+}
