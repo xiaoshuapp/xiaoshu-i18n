@@ -46,6 +46,8 @@
 	"settingLayout": { "message": "自定义布局" },
 	"settingLayoutDes": { "message": "你的设置效果会被实时的展示在页面中。" },
 
+	"settingLayoutAlignment": { "message": "对齐方式" },
+
 	"settingLayoutHeadLayout": { "message": "头部布局" },
 	"settingLayoutSearchBoxWidth": { "message": "搜索框宽度" },
 
@@ -62,7 +64,7 @@
 	"settingLayoutCardTypeSquare": { "message": "正方形" },
 	"settingLayoutCardTypeRectangle": { "message": "长方形" },
 
-	"settingEngine": { "message": "自定义搜索引擎" },
+	"settingEngine": { "message": "自定义" },
 	"settingEngineYours": { "message": "你的搜索引擎" },
 	"settingEngineOther": { "message": "其他搜索引擎" },
 	"engineIcon": { "message": "切换搜索引擎" },
