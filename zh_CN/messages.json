@@ -35,6 +35,7 @@
 	"settingSkinColor": { "message": "主要颜色" },
 	"settingSkinDark": { "message": "暗色模式跟随系统" },
 	"settingSkinWallpaper": { "message": "壁纸" },
+	"settingSkinWallpaperLocal": { "message": "上传本地壁纸" },
 	"settingDark": { "message": "暗色模式" },
 
 	"settingOther": { "message": "其他设置" },
