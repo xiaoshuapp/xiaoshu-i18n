@@ -6,7 +6,7 @@
 		"message": "舒同学"
 	},
 	"description": {
-		"message": "ブックマークで自動的に新しい新しいタブページを作成します。"
+		"message": "ホームページを完ぺきに飽きますが、当社のお気に入り整理は成し遂げることはありません。小シューズは新しくなったブラウザー拡張を追加することです。"
 	},
 	"gotIt": {
 		"message": "了解"
@@ -21,7 +21,7 @@
 		"message": "閉じる"
 	},
 	"delete": {
-		"message": "消除"
+		"message": "削除"
 	},
 	"done": {
 		"message": "完了"
@@ -63,7 +63,7 @@
 		"message": "構成の保存に失敗しました"
 	},
 	"settingSkin": {
-		"message": "テーマをカスタマイズ"
+		"message": "個人設定"
 	},
 	"settingSkinColor": {
 		"message": "メインカラー"
@@ -72,7 +72,7 @@
 		"message": "ダークモードはシステム"
 	},
 	"settingSkinWallpaper": {
-		"message": "背景画像"
+		"message": "壁紙"
 	},
 	"settingSkinWallpaperLocal": {
 		"message": "ローカルの壁紙をアップロード"
@@ -84,7 +84,7 @@
 		"message": "その他の設定"
 	},
 	"settingGeneral": {
-		"message": "一般設定"
+		"message": "設定"
 	},
 	"settingGeneralNewtab": {
 		"message": "リンクを新しいタブで開く"
@@ -162,7 +162,7 @@
 		"message": "flomoの設定"
 	},
 	"flomoSend": {
-		"message": "flomoに送信して削除します"
+		"message": "flomoに送る"
 	},
 	"flomoUrl": {
 		"message": "表示"
