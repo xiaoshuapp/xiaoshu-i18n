@@ -57,13 +57,13 @@
 		"message": "Bing Daily Wallpaper"
 	},
 	"settingOver": {
-		"message": "Configuration successfully saved."
+		"message": "Configuration saved successfully."
 	},
 	"settingFail": {
-		"message": "Failed to save configuration"
+		"message": "Failed to save configuration."
 	},
 	"settingSkin": {
-		"message": "Personalize"
+		"message": "Skins"
 	},
 	"settingSkinColor": {
 		"message": "Primary color"
@@ -75,7 +75,7 @@
 		"message": "Wallpaper"
 	},
 	"settingSkinWallpaperLocal": {
-		"message": "Upload local wallpaper"
+		"message": "Upload local file as wallpaper."
 	},
 	"settingDark": {
 		"message": "Dark mode"
@@ -168,6 +168,6 @@
 		"message": "View"
 	},
 	"flomoText": {
-		"message": "Write your mind here"
+		"message": "You can write down some of your feelings here."
 	}
 }
