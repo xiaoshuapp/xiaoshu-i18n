@@ -6,7 +6,7 @@
 		"message": "Xiaoshu"
 	},
 	"description": {
-		"message": "Our home page has never been better organized for our favorite things. Xiaoshu is a proxy, efficient new generation of new tab browser extension. We no longer need to manage favorite folders while managing a home page!"
+		"message": "Our home page has never been better organized for our favorite things. Compass is a proxy, efficient new generation of new tab browser extension. We no longer need to manage favorite folders while managing a home page!"
 	},
 	"gotIt": {
 		"message": "Got it"
@@ -63,16 +63,16 @@
 		"message": "Failed to save configuration"
 	},
 	"settingSkin": {
-		"message": "Customize"
+		"message": "Personalize"
 	},
 	"settingSkinColor": {
 		"message": "Primary color"
 	},
 	"settingSkinDark": {
-		"message": "Follow system's dark theme"
+		"message": "Dark Mode Follow System"
 	},
 	"settingSkinWallpaper": {
-		"message": "Wallpapers"
+		"message": "Wallpaper"
 	},
 	"settingSkinWallpaperLocal": {
 		"message": "Upload local wallpaper"
@@ -159,15 +159,15 @@
 		"message": "Use temporarily"
 	},
 	"flomoSetting": {
-		"message": "Configure flomo"
+		"message": "Configure"
 	},
 	"flomoSend": {
-		"message": "Send to flomo and delete"
+		"message": "Send to flomo"
 	},
 	"flomoUrl": {
 		"message": "View"
 	},
 	"flomoText": {
-		"message": "Write your thoughts here"
+		"message": "Write your mind here"
 	}
 }
