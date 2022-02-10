@@ -38,6 +38,9 @@
 	"headerInstructions": {
 		"message": "You just need to sort your favorites. The little comrades will help you generate the page automatically."
 	},
+	"windowFirst": {
+		"message": "Set as first screen"
+	},
 	"cardSetting": {
 		"message": "Card Effects"
 	},
@@ -53,6 +56,12 @@
 	"skinWallpaperBing": {
 		"message": "Bing Daily Wallpaper"
 	},
+	"settingOver": {
+		"message": "Configuration successfully saved."
+	},
+	"settingFail": {
+		"message": "Failed to save configuration"
+	},
 	"settingSkin": {
 		"message": "Customize"
 	},
@@ -64,6 +73,9 @@
 	},
 	"settingSkinWallpaper": {
 		"message": "Wallpapers"
+	},
+	"settingSkinWallpaperLocal": {
+		"message": "Upload local wallpaper"
 	},
 	"settingDark": {
 		"message": "Dark mode"
@@ -77,6 +89,9 @@
 	"settingGeneralNewtab": {
 		"message": "Open link in new tab"
 	},
+	"settingGeneralTransition": {
+		"message": "Animation Effect"
+	},
 	"settingSenior": {
 		"message": "Advanced Settings"
 	},
@@ -85,6 +100,9 @@
 	},
 	"settingLayoutDes": {
 		"message": "Your settings will be displayed in real time on the page."
+	},
+	"settingLayoutAlignment": {
+		"message": "Alignment"
 	},
 	"settingLayoutHeadLayout": {
 		"message": "Header Layout"
@@ -123,7 +141,7 @@
 		"message": "Rectangle"
 	},
 	"settingEngine": {
-		"message": "Custom search engines"
+		"message": "Custom"
 	},
 	"settingEngineYours": {
 		"message": "Your Search Engine"
@@ -146,13 +164,10 @@
 	"flomoSend": {
 		"message": "Send to flomo and delete"
 	},
+	"flomoUrl": {
+		"message": "View"
+	},
 	"flomoText": {
 		"message": "Write your thoughts here"
-	},
-	"flomoDesHead": {
-		"message": "I recently completed the bookmark folder\""
-	},
-	"flomoDesFooter": {
-		"message": "\"Some of the contents are below："
 	}
 }
