@@ -1,4 +1,4 @@
 project_id: 490487
 files:
-    - source: /zh_CN/messages.json
-      translation: /%two_letters_code%/messages.json
+  - source: /zh_CN/messages.json
+    translation: /%two_letters_code%/messages.json
