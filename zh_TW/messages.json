@@ -38,6 +38,30 @@
 	"headerInstructions": {
 		"message": "你只需要整理你的瀏覽器書簽，小舒同學就會自動幫你生成此分頁。"
 	},
+	"windowFirst": {
+		"message": "設置爲首屏"
+	},
+	"cardSetting": {
+		"message": "卡片效果"
+	},
+	"cardSettingType": {
+		"message": "卡片顯示類型"
+	},
+	"cardSettingMargin": {
+		"message": "卡片間距"
+	},
+	"skinTheme": {
+		"message": "主題"
+	},
+	"skinWallpaperBing": {
+		"message": "Bing 每日壁紙"
+	},
+	"settingOver": {
+		"message": "配置保存成功"
+	},
+	"settingFail": {
+		"message": "配置保存失敗"
+	},
 	"settingSkin": {
 		"message": "自定義外觀"
 	},
@@ -47,11 +71,11 @@
 	"settingSkinDark": {
 		"message": "暗色模式跟隨系統"
 	},
-	"settingSkinBlur": {
-		"message": "啓用毛玻璃濾鏡效果"
-	},
 	"settingSkinWallpaper": {
 		"message": "背景圖片"
+	},
+	"settingSkinWallpaperLocal": {
+		"message": "上傳本地壁紙"
 	},
 	"settingDark": {
 		"message": "暗色模式"
@@ -65,17 +89,23 @@
 	"settingGeneralNewtab": {
 		"message": "開啟鏈結於新分頁"
 	},
+	"settingGeneralTransition": {
+		"message": "動畫效果"
+	},
+	"settingSenior": {
+		"message": "進階設定"
+	},
 	"settingLayout": {
 		"message": "自訂佈局"
 	},
 	"settingLayoutDes": {
 		"message": "你的設置效果會被實時的展示在頁面中。"
 	},
+	"settingLayoutAlignment": {
+		"message": "對齊方式"
+	},
 	"settingLayoutHeadLayout": {
 		"message": "頭部布局"
-	},
-	"settingLayoutDisplayTipButton": {
-		"message": "顯示小燈泡按鈕"
 	},
 	"settingLayoutSearchBoxWidth": {
 		"message": "搜索框寬度"
@@ -95,14 +125,8 @@
 	"settingLayoutDisplayIconTitle": {
 		"message": "顯示正方形卡片標題"
 	},
-	"settingLayoutIconWidth": {
-		"message": "正方形卡片內邊距"
-	},
 	"settingLayoutCardLayout": {
 		"message": "卡片佈局"
-	},
-	"settingLayoutCardMargin": {
-		"message": "卡片間距"
 	},
 	"settingLayoutCardType": {
 		"message": "卡片顯示方式"
@@ -115,12 +139,6 @@
 	},
 	"settingLayoutCardTypeRectangle": {
 		"message": "長方形"
-	},
-	"settingLayoutCardPadding": {
-		"message": "長方形卡片內邊距"
-	},
-	"settingSenior": {
-		"message": "進階設定"
 	},
 	"settingEngine": {
 		"message": "自訂搜索引擎"
@@ -146,19 +164,10 @@
 	"flomoSend": {
 		"message": "發送至 flomo 並刪除"
 	},
+	"flomoUrl": {
+		"message": "查看"
+	},
 	"flomoText": {
 		"message": "在這裏寫寫你的感想吧"
-	},
-	"flomoDesHead": {
-		"message": "我最近完成了書簽資料夾“"
-	},
-	"flomoDesFooter": {
-		"message": "“的一些内容，内容如下："
-	},
-	"folderSetting": {
-		"message": "資料夾設定"
-	},
-	"folderType": {
-		"message": "資料集類型"
 	}
 }
