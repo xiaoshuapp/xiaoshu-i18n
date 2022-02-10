@@ -38,6 +38,30 @@
 	"headerInstructions": {
 		"message": "お気に入りを一つだけ整理してすぐに、ジャンプすると自動的に返信が表示されます。"
 	},
+	"windowFirst": {
+		"message": "ホーム画面に設定"
+	},
+	"cardSetting": {
+		"message": "カードのエフェクト"
+	},
+	"cardSettingType": {
+		"message": "カード表示タイプ"
+	},
+	"cardSettingMargin": {
+		"message": "カードの間隔"
+	},
+	"skinTheme": {
+		"message": "テーマ"
+	},
+	"skinWallpaperBing": {
+		"message": "Bing 今日の壁紙"
+	},
+	"settingOver": {
+		"message": "設定を保存しました。"
+	},
+	"settingFail": {
+		"message": "構成の保存に失敗しました"
+	},
 	"settingSkin": {
 		"message": "テーマをカスタマイズ"
 	},
@@ -47,11 +71,11 @@
 	"settingSkinDark": {
 		"message": "ダークモードはシステム"
 	},
-	"settingSkinBlur": {
-		"message": "あなたの砂玉を磨く"
-	},
 	"settingSkinWallpaper": {
 		"message": "背景画像"
+	},
+	"settingSkinWallpaperLocal": {
+		"message": "ローカルの壁紙をアップロード"
 	},
 	"settingDark": {
 		"message": "ダークモード"
@@ -65,17 +89,23 @@
 	"settingGeneralNewtab": {
 		"message": "リンクを新しいタブで開く"
 	},
+	"settingGeneralTransition": {
+		"message": "アニメーション"
+	},
+	"settingSenior": {
+		"message": "詳細設定"
+	},
 	"settingLayout": {
 		"message": "カスタムレイアウト"
 	},
 	"settingLayoutDes": {
 		"message": "設定が適用された場合、ページ内の効果が反映されます。"
 	},
+	"settingLayoutAlignment": {
+		"message": "配置"
+	},
 	"settingLayoutHeadLayout": {
 		"message": "先頭レイアウト"
-	},
-	"settingLayoutDisplayTipButton": {
-		"message": "電球ボタンを表示"
 	},
 	"settingLayoutSearchBoxWidth": {
 		"message": "検索ボックスの幅"
@@ -95,14 +125,8 @@
 	"settingLayoutDisplayIconTitle": {
 		"message": "カード名を表示"
 	},
-	"settingLayoutIconWidth": {
-		"message": "マージン"
-	},
 	"settingLayoutCardLayout": {
 		"message": "タイルのレイアウト"
-	},
-	"settingLayoutCardMargin": {
-		"message": "カードの間隔"
 	},
 	"settingLayoutCardType": {
 		"message": "カード表示方法"
@@ -116,14 +140,8 @@
 	"settingLayoutCardTypeRectangle": {
 		"message": "矩形"
 	},
-	"settingLayoutCardPadding": {
-		"message": "パディングカードの内余白"
-	},
-	"settingSenior": {
-		"message": "詳細設定"
-	},
 	"settingEngine": {
-		"message": "カスタム検索エンジン"
+		"message": "カスタム"
 	},
 	"settingEngineYours": {
 		"message": "検索エンジン"
@@ -146,19 +164,10 @@
 	"flomoSend": {
 		"message": "flomoに送信して削除します"
 	},
+	"flomoUrl": {
+		"message": "表示"
+	},
 	"flomoText": {
 		"message": "イメージを書いてください..."
-	},
-	"flomoDesHead": {
-		"message": "最近ブックマークフォルダを完了しました"
-	},
-	"flomoDesFooter": {
-		"message": "” のいくつかは、次です："
-	},
-	"folderSetting": {
-		"message": "フォルダ設定"
-	},
-	"folderType": {
-		"message": "フォルダーの種類"
 	}
 }
