@@ -6,7 +6,7 @@
 		"message": "Xiaoshu"
 	},
 	"description": {
-		"message": "Our home page has never been better organized than our favorite things. Compass is a proxy, efficient new generation of new tab browser extension. We no longer need to manage favorite folders while managing a home page!"
+		"message": "Our home page has never been better organized than our favorite things. Xiaoshu is a proxy, efficient new generation of new tab browser extension. We no longer need to manage favorite folders while managing a home page!"
 	},
 	"gotIt": {
 		"message": "Got it"
@@ -36,7 +36,7 @@
 		"message": "已关闭“夜间模式跟随系统”"
 	},
 	"headerInstructions": {
-		"message": "You just need to sort your favorites. The little comrades will help you generate the page automatically."
+		"message": "You just need to sort your favorites, then Xiaoshu will help you generate the page automatically."
 	},
 	"windowFirst": {
 		"message": "Set as first screen"
@@ -57,13 +57,13 @@
 		"message": "Bing Daily Wallpaper"
 	},
 	"settingOver": {
-		"message": "Configuration saved successfully."
+		"message": "Configuration successfully saved."
 	},
 	"settingFail": {
 		"message": "Failed to save configuration."
 	},
 	"settingSkin": {
-		"message": "Skins"
+		"message": "personalise"
 	},
 	"settingSkinColor": {
 		"message": "Primary color"
@@ -117,7 +117,7 @@
 		"message": "Show Title"
 	},
 	"settingLayoutTitleMarginTop": {
-		"message": "Header header interval size"
+		"message": "Top margin of title."
 	},
 	"settingLayoutIconLayout": {
 		"message": "Square Card Layout"
