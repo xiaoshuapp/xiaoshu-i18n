@@ -6,7 +6,7 @@
 		"message": "Xiaoshu"
 	},
 	"description": {
-		"message": "Our home page has never been better organized for our favorite things. Compass is a proxy, efficient new generation of new tab browser extension. We no longer need to manage favorite folders while managing a home page!"
+		"message": "Our home page has never been better organized than our favorite things. Compass is a proxy, efficient new generation of new tab browser extension. We no longer need to manage favorite folders while managing a home page!"
 	},
 	"gotIt": {
 		"message": "Got it"
@@ -33,7 +33,7 @@
 		"message": "Tips"
 	},
 	"headerDark": {
-		"message": "Night Mode Follow System turned off"
+		"message": "已关闭“夜间模式跟随系统”"
 	},
 	"headerInstructions": {
 		"message": "You just need to sort your favorites. The little comrades will help you generate the page automatically."
