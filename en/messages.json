@@ -1,173 +1,94 @@
 {
-	"name": {
-		"message": "Xiaoshu - New Tab based on Bookmarks"
-	},
-	"title": {
-		"message": "Xiaoshu"
-	},
+	"name": { "message": "Xiao Shu - Bookmark-based New Tab" },
+	"title": { "message": "Xiao Shu classmate" },
 	"description": {
-		"message": "Our home page has never been better organized than our favorite things. Xiaoshu is a proxy, efficient new generation of new tab browser extension. We no longer need to manage favorite folders while managing a home page!"
+	"message": "We tried our best to fiddle with our homepage, but we never managed to organize our favorites. Xiaoshu is a new generation browser extension that saves trouble and is efficient. We no longer need to manage favorites At the same time, there is an additional homepage to manage!"
 	},
-	"gotIt": {
-		"message": "Got it"
-	},
-	"save": {
-		"message": "Save"
-	},
-	"apply": {
-		"message": "Apply"
-	},
-	"close": {
-		"message": "Close"
-	},
-	"delete": {
-		"message": "Delete"
-	},
-	"done": {
-		"message": "Done"
-	},
-	"searchLabel": {
-		"message": "Search here 🧐"
-	},
-	"headerTip": {
-		"message": "Tips"
-	},
-	"headerDark": {
-		"message": "已关闭“夜间模式跟随系统”"
-	},
+	
+	"gotIt": { "message": "I got it" },
+	"save": { "message": "Save" },
+	"apply": { "message": "Apply" },
+	"close": { "message": "close" },
+	"delete": { "message": "delete" },
+	"done": { "message": "Done" },
+	
+	"titleX": { "message": "Title" },
+	
+	"searchLabel": { "message": "Search here 🧐" },
+	
+	"settingOver": { "message": "Configuration saved successfully" },
+	"settingFail": { "message": "Configuration save failed" },
+	"settingLayoutDes": { "message": "Your settings will be displayed on the page in real time." },
+	
+	"settingCardEdit": { "message": "Card Edit" },
+	"settingCardEditNowPage": { "message": "Current progress" },
+	"settingCardEditTotalPage": { "message": "Total progress" },
+	"cardSetting": { "message": "Card Effect" },
+	"cardSettingIcon": { "message": "Card Icon" },
+	"cardSettingType": { "message": "Card Display Type: This setting is valid for the entire folder" },
+	
+	"settingCustom": { "message": "Personalization" },
+	"settingCustomTheme": { "message": "Theme" },
+	"settingCustomColor": { "message": "Main Color" },
+	"settingCustomWallpaper": { "message": "Wallpaper" },
+	"settingCustomWallpaperSpecial": { "message": "Special" },
+	"settingCustomWallpaperSpecialBing": { "message": "Bing Daily Wallpaper @paugram" },
+	"settingCustomWallpaperSpecialACG": { "message": "Random ACG wallpaper @toubiec" },
+	"settingCustomWallpaperXiaoshu": { "message": "Xiaoshu exclusive @oceanzhuo" },
+	"settingCustomWallpaperMinimalize": { "message": "Minimalize @wickedbackground" },
+	"settingCustomWallpaperAnimation": { "message": "Anime @Wallpaper Abyss" },
+	"settingCustomWallpaperGame": { "message": "Game @Wallpaper Abyss" },
+	"settingCustomWallpaperBing": { "message": "Bing Daily Wallpaper" },
+	"settingCustomWallpaperLocal": { "message": "Upload local wallpaper" },
+	
+	"settingDark": { "message": "Dark Mode" },
+	"settingHome": { "message": "Settings" },
+	"settingGeneralNewtab": { "message": "Open link in new tab" },
+	"settingGeneralTransition": { "message": "Animation effect" },
+	"settingSkinDark": { "message": "Dark Mode Follows System" },
+	"headerDark": { "message": "Disabled Dark Mode Follow System" },
+	"settingEffectorTip": { "message": "Add extra effects to your Xiaoshu classmates, such as hiding certain functions" },
+	
+	"settingSenior": { "message": "Advanced Settings" },
+	"settingOther": { "message": "Other Settings" },
+	"settingMore": { "message": "More settings" },
+	"settingLayoutAlignment": { "message": "Alignment" },
+	"settingLayoutHeadLayout": { "message": "Head Layout" },
+	"settingLayoutSearchBoxWidth": { "message": "Search Box Width" },
+	"settingLayoutFolderLayout": { "message": "Setting Title" },
+	"settingLayoutTitleMarginTop": { "message": "Title top margin size" },
+	"settingLayoutCardLayout": { "message": "Card Layout" },
+	"cardSettingMargin": { "message": "Card Margin" },
+	"settingLayoutStrip12": { "message": "Super long strip card" },
+	"settingMoreCatalog": { "message": "Quick Catalog" },
+	"settingMoreCatalogRight": { "message": "Quick catalog right" },
+	
+	"settingEffector": { "message": "Effect" },
+	"settingGroup": { "message": "Group/Folder" },
+	"settingGroupShow": { "message": "Expand the current group" },
+	"settingGroupDisplay": { "message": "Display current group" },
+	"settingGroupWindow": { "message": "Set as screen window" },
+	"settingNote": { "message": "Note Settings" },
+	"settingExplore": { "message": "Explore" },
 	"headerInstructions": {
-		"message": "You just need to sort your favorites, then Xiaoshu will help you generate the page automatically."
+	"message": "You just need to organize your favorites, and Xiaoshu will automatically generate this page for you."
 	},
-	"windowFirst": {
-		"message": "Set as first screen"
-	},
-	"cardSetting": {
-		"message": "Card Effects"
-	},
-	"cardSettingType": {
-		"message": "Card Display Type"
-	},
-	"cardSettingMargin": {
-		"message": "Card Spacing"
-	},
-	"skinTheme": {
-		"message": "Themes"
-	},
-	"skinWallpaperBing": {
-		"message": "Bing Daily Wallpaper"
-	},
-	"settingOver": {
-		"message": "Configuration successfully saved."
-	},
-	"settingFail": {
-		"message": "Failed to save configuration."
-	},
-	"settingSkin": {
-		"message": "personalise"
-	},
-	"settingSkinColor": {
-		"message": "Primary color"
-	},
-	"settingSkinDark": {
-		"message": "Dark Mode Follow System"
-	},
-	"settingSkinWallpaper": {
-		"message": "Wallpaper"
-	},
-	"settingSkinWallpaperLocal": {
-		"message": "Upload local file as wallpaper."
-	},
-	"settingDark": {
-		"message": "Dark mode"
-	},
-	"settingOther": {
-		"message": "Other settings"
-	},
-	"settingGeneral": {
-		"message": "Settings"
-	},
-	"settingGeneralNewtab": {
-		"message": "Open link in new tab"
-	},
-	"settingGeneralTransition": {
-		"message": "Animation Effect"
-	},
-	"settingSenior": {
-		"message": "Advanced Settings"
-	},
-	"settingLayout": {
-		"message": "Custom Layout"
-	},
-	"settingLayoutDes": {
-		"message": "Your settings will be displayed in real time on the page."
-	},
-	"settingLayoutAlignment": {
-		"message": "Alignment"
-	},
-	"settingLayoutHeadLayout": {
-		"message": "Header Layout"
-	},
-	"settingLayoutSearchBoxWidth": {
-		"message": "Search box width"
-	},
-	"settingLayoutFolderLayout": {
-		"message": "Set Title"
-	},
-	"settingLayoutDisplayFolderTitle": {
-		"message": "Show Title"
-	},
-	"settingLayoutTitleMarginTop": {
-		"message": "Top margin of title."
-	},
-	"settingLayoutIconLayout": {
-		"message": "Square Card Layout"
-	},
-	"settingLayoutDisplayIconTitle": {
-		"message": "Show square card title"
-	},
-	"settingLayoutCardLayout": {
-		"message": "Card Layout"
-	},
-	"settingLayoutCardType": {
-		"message": "Card Display Method"
-	},
-	"settingLayoutCardTypeAuto": {
-		"message": "Auto"
-	},
-	"settingLayoutCardTypeSquare": {
-		"message": "Square"
-	},
-	"settingLayoutCardTypeRectangle": {
-		"message": "Rectangle"
-	},
-	"settingEngine": {
-		"message": "Custom"
-	},
-	"settingEngineYours": {
-		"message": "Your Search Engine"
-	},
-	"settingEngineOther": {
-		"message": "Other search engines"
-	},
-	"engineIcon": {
-		"message": "Toggle Search Engine"
-	},
-	"engineChip": {
-		"message": "Toggle Search Engine"
-	},
-	"engineQuick": {
-		"message": "Use temporarily"
-	},
-	"flomoSetting": {
-		"message": "Configure"
-	},
-	"flomoSend": {
-		"message": "Send to flomo"
-	},
-	"flomoUrl": {
-		"message": "View"
-	},
-	"flomoText": {
-		"message": "You can write down some of your feelings here."
+	"settingInfo": { "message": "Message Board" },
+	"settingChangelog": { "message": "Changelog" },
+	"settingExploreStar": { "message": "Feel good? Give 5 stars!" },
+	"settingExploreAuthor": { "message": "Author" },
+	"settingCurrentVersion": { "message": "Your current version" },
+	
+	"settingBanner": { "message": "Header Banner" },
+	"settingEngine": { "message": "Search Engine" },
+	"settingEngineYours": { "message": "Your search engine" },
+	"settingEngineOther": { "message": "Other Search Engines" },
+	"engineIcon": { "message": "Switch Search Engine" },
+	"engineChip": { "message": "Switch the search engine to" },
+	"engineQuick": { "message": "Temporary use" },
+	"settingEngineAdd": { "message": "Add Search Engine" },
+	"settingEngineAddUrl": { "message": "URL (eg: https://bing.com/search?q=%s, with %s)" },
+	"settingEngineAddButton": { "message": "Add" },
+	
+	"flomoSetting": { "message": "Configuration" }
 	}
-}

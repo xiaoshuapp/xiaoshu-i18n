@@ -1,173 +1,97 @@
 {
-	"name": {
-		"message": "小舒同學 - 基于書簽的新建標簽頁"
-	},
-	"title": {
-		"message": "小舒同學"
-	},
+	"name": { "message": "小舒同學 - 基于書簽的新建標簽頁" },
+	"title": { "message": "小舒同學" },
 	"description": {
 		"message": "我們費盡心思折騰我們的主頁，卻從來沒好好整理過我們的收藏夾。小舒同學是省事、高效的新一代新建標簽頁浏覽器擴展。我們再也不需要管理收藏夾的同時還要額外管理一個主頁了！"
 	},
-	"gotIt": {
-		"message": "我知道了"
-	},
-	"save": {
-		"message": "保存"
-	},
-	"apply": {
-		"message": "應用"
-	},
-	"close": {
-		"message": "關閉"
-	},
-	"delete": {
-		"message": "刪除"
-	},
-	"done": {
-		"message": "完成"
-	},
-	"searchLabel": {
-		"message": "在這裏搜索🧐"
-	},
-	"headerTip": {
-		"message": "提示"
-	},
-	"headerDark": {
-		"message": "已關閉“暗色模式跟隨系統”"
-	},
-	"headerInstructions": {
-		"message": "你只需要整理你的瀏覽器書簽，小舒同學就會自動幫你生成此分頁。"
-	},
-	"windowFirst": {
-		"message": "設置爲首屏"
-	},
-	"cardSetting": {
-		"message": "卡片效果"
-	},
-	"cardSettingType": {
-		"message": "卡片顯示類型"
-	},
-	"cardSettingMargin": {
-		"message": "卡片間距"
-	},
-	"skinTheme": {
-		"message": "主題"
-	},
-	"skinWallpaperBing": {
-		"message": "Bing 每日壁紙"
-	},
-	"settingOver": {
-		"message": "配置保存成功"
-	},
-	"settingFail": {
-		"message": "配置保存失敗"
-	},
-	"settingSkin": {
-		"message": "個性化"
-	},
-	"settingSkinColor": {
-		"message": "主要顔色"
-	},
-	"settingSkinDark": {
-		"message": "暗色模式跟隨系統"
-	},
-	"settingSkinWallpaper": {
-		"message": "壁紙"
-	},
-	"settingSkinWallpaperLocal": {
-		"message": "上傳本地壁紙"
-	},
-	"settingDark": {
-		"message": "暗色模式"
-	},
-	"settingOther": {
-		"message": "其他設定"
-	},
-	"settingGeneral": {
-		"message": "設置"
-	},
-	"settingGeneralNewtab": {
-		"message": "開啟鏈結於新分頁"
-	},
-	"settingGeneralTransition": {
-		"message": "動畫效果"
-	},
-	"settingSenior": {
-		"message": "進階設定"
-	},
-	"settingLayout": {
-		"message": "自訂佈局"
-	},
-	"settingLayoutDes": {
-		"message": "你的設置效果會被實時的展示在頁面中。"
-	},
-	"settingLayoutAlignment": {
-		"message": "對齊方式"
-	},
-	"settingLayoutHeadLayout": {
-		"message": "頭部布局"
-	},
-	"settingLayoutSearchBoxWidth": {
-		"message": "搜索框寬度"
-	},
-	"settingLayoutFolderLayout": {
-		"message": "設置標題"
-	},
-	"settingLayoutDisplayFolderTitle": {
-		"message": "顯示標題"
-	},
-	"settingLayoutTitleMarginTop": {
-		"message": "標題頂部間隔大小"
-	},
-	"settingLayoutIconLayout": {
-		"message": "正方形卡片布局"
-	},
-	"settingLayoutDisplayIconTitle": {
-		"message": "顯示正方形卡片標題"
-	},
-	"settingLayoutCardLayout": {
-		"message": "卡片布局"
-	},
-	"settingLayoutCardType": {
-		"message": "卡片顯示方式"
-	},
-	"settingLayoutCardTypeAuto": {
-		"message": "自動"
-	},
-	"settingLayoutCardTypeSquare": {
-		"message": "正方形"
-	},
-	"settingLayoutCardTypeRectangle": {
-		"message": "長方形"
-	},
-	"settingEngine": {
-		"message": "自定義"
-	},
-	"settingEngineYours": {
-		"message": "你的搜索引擎"
-	},
-	"settingEngineOther": {
-		"message": "其他搜索引擎"
-	},
-	"engineIcon": {
-		"message": "切換搜索引擎"
-	},
-	"engineChip": {
-		"message": "切換搜索引擎爲"
-	},
-	"engineQuick": {
-		"message": "臨時使用"
-	},
-	"flomoSetting": {
-		"message": "配置"
-	},
-	"flomoSend": {
-		"message": "發送至 flomo"
-	},
-	"flomoUrl": {
-		"message": "查看"
-	},
-	"flomoText": {
-		"message": "在這裏寫寫你的感想吧"
-	}
+
+	"gotIt": { "message": "我知道了" },
+	"save": { "message": "保存" },
+	"apply": { "message": "應用" },
+	"close": { "message": "關閉" },
+	"delete": { "message": "刪除" },
+	"done": { "message": "完成" },
+
+	"titleX": { "message": "標題" },
+
+	"searchLabel": { "message": "在這裏搜索🧐" },
+
+	"settingOver": { "message": "配置保存成功" },
+	"settingFail": { "message": "配置保存失敗" },
+	"settingLayoutDes": { "message": "你的設置效果會被實時的展示在頁面中。" },
+
+	"settingCardEdit": { "message": "卡片編輯" },
+		"settingCardEditNowPage": { "message": "當前進度" },
+		"settingCardEditTotalPage": { "message": "總進度" },
+
+	"cardSetting": { "message": "卡片效果" },
+		"cardSettingIcon": { "message": "卡片圖標" },
+		"cardSettingType": { "message": "卡片顯示類型：該設置對整個文件夾生效" },
+
+	"folderSetting": { "message": "文件夾效果" },
+
+	"settingCustom": { "message": "個性化" },
+		"settingCustomTheme": { "message": "主題" },
+		"settingCustomColor": { "message": "主要顔色" },
+		"settingCustomWallpaper": { "message": "壁紙" },
+			"settingCustomWallpaperSpecial": { "message": "特殊" },
+				"settingCustomWallpaperSpecialBing": { "message": "Bing 每日壁紙 @paugram" },
+				"settingCustomWallpaperSpecialACG": { "message": "隨機 ACG 壁紙 @toubiec" },
+			"settingCustomWallpaperXiaoshu": { "message": "小舒專屬 @oceanzhuo" },
+			"settingCustomWallpaperMinimalize": { "message": "極簡 @wickedbackground" },
+			"settingCustomWallpaperAnimation": { "message": "動漫 @Wallpaper Abyss" },
+			"settingCustomWallpaperGame": { "message": "遊戲 @Wallpaper Abyss" },
+		"settingCustomWallpaperBing": { "message": "Bing 每日壁紙" },
+		"settingCustomWallpaperLocal": { "message": "上傳本地壁紙" },
+
+	"settingDark": { "message": "暗色模式" },
+	"settingHome": { "message": "設置" },
+		"settingGeneralNewtab": { "message": "在新建標簽頁打開鏈接" },
+		"settingGeneralTransition": { "message": "動畫效果" },
+		"settingSkinDark": { "message": "暗色模式跟隨系統" },
+		"headerDark": { "message": "已關閉 暗色模式跟隨系統" },
+		"settingEffectorTip": { "message": "爲你的小舒同學添加額外效果，比如隱藏某些功能" },
+
+	"settingSenior": { "message": "高級設置" },
+	"settingOther": { "message": "其他設置" },
+	"settingMore": { "message": "更多設置" },
+		"settingLayoutAlignment": { "message": "對齊方式" },
+		"settingLayoutHeadLayout": { "message": "頭部布局" },
+			"settingLayoutSearchBoxWidth": { "message": "搜索框寬度" },
+		"settingLayoutFolderLayout": { "message": "設置標題" },
+			"settingLayoutTitleMarginTop": { "message": "標題頂部間隔大小" },
+		"settingLayoutCardLayout": { "message": "卡片布局" },
+			"cardSettingMargin": { "message": "卡片間距" },
+			"settingLayoutStrip12": { "message": "超長條形卡片" },
+		"settingMoreCatalog": { "message": "快速目錄" },
+			"settingMoreCatalogRight": { "message": "快速目錄靠右" },
+
+	"settingEffector": { "message": "效果器" },
+	"settingGroup": { "message": "組/文件夾" },
+		"settingGroupShow": { "message": "展開當前分組" },
+		"settingGroupDisplay": { "message": "顯示當前分組" },
+		"settingGroupWindow": { "message": "設置爲屏幕窗口" },
+	"settingNote": { "message": "筆記設置" },
+	"settingExplore": { "message": "探索" },
+		"headerInstructions": {
+			"message": "你只需要整理你的收藏夾，小舒同學就會自動幫你生成該頁。"
+		},
+		"settingInfo": { "message": "信息板" },
+		"settingChangelog": { "message": "更新日志" },
+		"settingExploreStar": { "message": "覺得不錯？給5星好評！" },
+		"settingExploreAuthor": { "message": "作者" },
+		"settingCurrentVersion": { "message": "你當前的版本" },
+		
+	"settingBanner": { "message": "頭部橫幅" },
+	"settingEngine": { "message": "搜索引擎" },
+		"settingEngineYours": { "message": "你的搜索引擎" },
+		"settingEngineOther": { "message": "其他搜索引擎" },
+		"engineIcon": { "message": "切換搜索引擎" },
+		"engineChip": { "message": "切換搜索引擎爲" },
+		"engineQuick": { "message": "臨時使用" },
+		"settingEngineAdd": { "message": "添加搜索引擎" },
+		"settingEngineAddUrl": { "message": "URL（比如：https://bing.com/search?q=%s，需要帶%s）" },
+		"settingEngineAddButton": { "message": "添加" },
+
+	"flomoSetting": { "message": "配置" }
 }
