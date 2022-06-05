@@ -11,6 +11,7 @@
 	"close": { "message": "关闭" },
 	"delete": { "message": "删除" },
 	"done": { "message": "完成" },
+	"add": { "message": "添加"},
 
 	"titleX": { "message": "标题" },
 
@@ -83,6 +84,8 @@
 		"settingCurrentVersion": { "message": "你当前的版本" },
 		
 	"settingBanner": { "message": "头部横幅" },
+	"settingBannerYours": { "message": "你的横幅" },
+	"settingBannerAdd": { "message": "添加横幅" },
 	"settingEngine": { "message": "搜索引擎" },
 		"settingEngineYours": { "message": "你的搜索引擎" },
 		"settingEngineOther": { "message": "其他搜索引擎" },
