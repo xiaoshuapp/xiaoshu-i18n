@@ -69,8 +69,8 @@
 
 	"settingEffector": { "message": "效果器" },
 	"settingGroup": { "message": "组/文件夹" },
-		"settingGroupShow": { "message": "展开当前分组" },
-		"settingGroupDisplay": { "message": "显示当前分组" },
+		"settingGroupShow": { "message": "是否折叠该分组" },
+		"settingGroupDisplay": { "message": "显示该分组" },
 		"settingGroupWindow": { "message": "设置为屏幕窗口" },
 	"settingNote": { "message": "笔记设置" },
 	"settingExplore": { "message": "探索" },
