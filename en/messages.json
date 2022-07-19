@@ -1,6 +1,6 @@
 {
 	"name": {
-		"message": "Xiaoshu - New Tab based on Bookmarks"
+		"message": "Xiaoshu - Tab-based Bookmarks"
 	},
 	"title": {
 		"message": "Xiaoshu"
@@ -45,13 +45,13 @@
 		"message": "Your settings will be displayed in real-time on the page."
 	},
 	"settingCardEdit": {
-		"message": "Card Edit"
+		"message": "Edit Card"
 	},
 	"settingCardEditNowPage": {
 		"message": "Current Progress"
 	},
 	"settingCardEditTotalPage": {
-		"message": "Total Progress"
+		"message": "Overall Progress"
 	},
 	"cardSetting": {
 		"message": "Card Effects"
@@ -60,19 +60,19 @@
 		"message": "Card Icons"
 	},
 	"cardSettingType": {
-		"message": "Card display type: this setting takes effect on the entire folder"
+		"message": "Card display type: this setting is applied to the entire folder"
 	},
 	"folderSetting": {
 		"message": "Folder Effect"
 	},
 	"settingCustom": {
-		"message": "Customize"
+		"message": "Personalization"
 	},
 	"settingCustomTheme": {
 		"message": "Themes"
 	},
 	"settingCustomColor": {
-		"message": "Primary color"
+		"message": "Main Colours"
 	},
 	"settingCustomWallpaper": {
 		"message": "Wallpaper"
@@ -102,7 +102,7 @@
 		"message": "Bing Daily Wallpaper"
 	},
 	"settingCustomWallpaperLocal": {
-		"message": "Upload local file as wallpaper."
+		"message": "Upload Local Wallpapers"
 	},
 	"settingDark": {
 		"message": "Dark mode"
@@ -117,10 +117,10 @@
 		"message": "Animation Effect"
 	},
 	"settingSkinDark": {
-		"message": "Dark Mode Follow System"
+		"message": "Dark Mode Following System"
 	},
 	"headerDark": {
-		"message": "Dark mode followed system turned off"
+		"message": "Turn Off Dark Mode Following System"
 	},
 	"settingEffectorTip": {
 		"message": "Add extra effects to your Xiaoshu, such as hiding some features"
