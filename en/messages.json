@@ -6,7 +6,7 @@
 		"message": "Xiaoshu"
 	},
 	"description": {
-		"message": "Our home page has never been better organized than our favorite things. Xiaoshu is a proxy, efficient new generation of new tab browser extension. We no longer need to manage favorite folders while managing a home page!"
+		"message": "Bookmarks, if well organized, is as important as a well-tuned homepage. Xiaoshu is a trouble-saving and efficient 2-in-1 extension that helps you easily organize your bookmarks and redefine your browser homepage."
 	},
 	"gotIt": {
 		"message": "Got it"
@@ -111,10 +111,10 @@
 		"message": "Settings"
 	},
 	"settingGeneralNewtab": {
-		"message": "Open link in new tab"
+		"message": "Open link in a new tab"
 	},
 	"settingGeneralTransition": {
-		"message": "Animation Effect"
+		"message": "Animation"
 	},
 	"settingSkinDark": {
 		"message": "Dark Mode Following System"
@@ -147,7 +147,7 @@
 		"message": "Set Title"
 	},
 	"settingLayoutTitleMarginTop": {
-		"message": "Top margin of title."
+		"message": "Spacing Above Title"
 	},
 	"settingLayoutCardLayout": {
 		"message": "Card Layout"
@@ -156,13 +156,13 @@
 		"message": "Card Spacing"
 	},
 	"settingLayoutStrip12": {
-		"message": "Ultra Long Bar Card"
+		"message": "Long Card"
 	},
 	"settingMoreCatalog": {
-		"message": "Quick Catalog"
+		"message": "Quick Directory"
 	},
 	"settingMoreCatalogRight": {
-		"message": "Quick Catalog Right"
+		"message": "Quick Directory on the Right"
 	},
 	"settingEffector": {
 		"message": "Effects"
@@ -189,19 +189,19 @@
 		"message": "It would help if you sorted your favorites, then Xiaoshu will help you generate the page automatically."
 	},
 	"settingInfo": {
-		"message": "Information Board"
+		"message": "Message Board"
 	},
 	"settingChangelog": {
 		"message": "Release Note"
 	},
 	"settingExploreStar": {
-		"message": "Feeling good? Rate 5 stars!"
+		"message": "Like Xiaoshu? Rate 5 stars!"
 	},
 	"settingExploreAuthor": {
 		"message": "Author"
 	},
 	"settingCurrentVersion": {
-		"message": "Your Current Version"
+		"message": "Current Version"
 	},
 	"settingBanner": {
 		"message": "Header Banner"
@@ -228,7 +228,7 @@
 		"message": "Toggle Search Engine"
 	},
 	"engineQuick": {
-		"message": "Use temporarily"
+		"message": "Only this time"
 	},
 	"settingEngineAdd": {
 		"message": "Add a Search Engine"
