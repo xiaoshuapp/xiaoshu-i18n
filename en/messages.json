@@ -195,16 +195,16 @@
 		"message": "Release Note"
 	},
 	"settingExploreStar": {
-		"message": "Like Xiaoshu? Rate 5 stars!"
+		"message": "Like me? Rate 5 stars!"
 	},
 	"settingExploreAuthor": {
 		"message": "Author"
 	},
 	"settingCurrentVersion": {
-		"message": "Current Version"
+		"message": "Version"
 	},
 	"settingBanner": {
-		"message": "Header Banner"
+		"message": "Top Banner"
 	},
 	"settingBannerYours": {
 		"message": "Your Banner"
