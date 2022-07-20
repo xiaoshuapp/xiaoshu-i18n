@@ -13,6 +13,10 @@
 	"done": { "message": "完成" },
 	"add": { "message": "添加"},
 
+	"starTip": { "message": "你已经使用了一段时间了，来给个好评吧！"},
+	"ignore": { "message": "忽略" },
+	"praise": { "message": "去好评" },
+
 	"titleX": { "message": "标题" },
 
 	"groupEmpty": { "message": "你的收藏夹没有内容，点击地址栏的星星图标添加书签<br />或者往下拉，添加别人分享的收藏夹吧！"},
