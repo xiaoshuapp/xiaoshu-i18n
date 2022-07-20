@@ -29,8 +29,38 @@
 	"add": {
 		"message": "Add"
 	},
+	"starTip": {
+		"message": "You have been in use for a while, so why not give a good rating to us!"
+	},
+	"ignore": {
+		"message": "Ignore"
+	},
+	"praise": {
+		"message": "Rate it"
+	},
 	"titleX": {
 		"message": "Title"
+	},
+	"groupEmpty": {
+		"message": "If your favorites have no content, click the star icon in the address bar to add a bookmark."
+	},
+	"groupOpenAll": {
+		"message": "Open all Level 1 cards"
+	},
+	"groupRemove": {
+		"message": "Are you sure to remove it？"
+	},
+	"groupColOne": {
+		"message": "Single column"
+	},
+	"groupColTwo": {
+		"message": "Two columns"
+	},
+	"groupColThree": {
+		"message": "Three columns"
+	},
+	"catalogToTop": {
+		"message": "Back to top"
 	},
 	"searchLabel": {
 		"message": "Search here 🧐"
@@ -52,6 +82,9 @@
 	},
 	"settingCardEditTotalPage": {
 		"message": "Overall Progress"
+	},
+	"settingCardEditDateAdded": {
+		"message": "Add Time："
 	},
 	"cardSetting": {
 		"message": "Card Effects"
@@ -179,6 +212,9 @@
 	"settingGroupWindow": {
 		"message": "Set as Screen Window"
 	},
+	"settingGroupWindowSaved": {
+		"message": "has been set to a new screen"
+	},
 	"settingNote": {
 		"message": "Note Settings"
 	},
@@ -238,6 +274,9 @@
 	},
 	"settingEngineAddButton": {
 		"message": "Add"
+	},
+	"settingEngineSaved": {
+		"message": "Changed successfully! Please remember to save"
 	},
 	"flomoSetting": {
 		"message": "Configure"
