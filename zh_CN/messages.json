@@ -15,6 +15,12 @@
 
 	"titleX": { "message": "标题" },
 
+	"groupEmpty": { "message": "你的收藏夹没有内容，点击地址栏的星星图标添加书签<br />或者往下拉，添加别人分享的收藏夹吧！"},
+	"groupOpenAll": { "message": "打开所有一级卡片" },
+	"groupRemove": { "message": "你确定要删除吗？"},
+
+	"catalogToTop": { "message": "回到顶部" },
+
 	"searchLabel": { "message": "在这里搜索🧐" },
 
 	"settingOver": { "message": "配置保存成功" },
@@ -24,6 +30,7 @@
 	"settingCardEdit": { "message": "卡片编辑" },
 		"settingCardEditNowPage": { "message": "当前进度" },
 		"settingCardEditTotalPage": { "message": "总进度" },
+		"settingCardEditDateAdded": { "message": "添加时间："},
 
 	"cardSetting": { "message": "卡片效果" },
 		"cardSettingIcon": { "message": "卡片图标" },
@@ -71,7 +78,8 @@
 	"settingGroup": { "message": "组/文件夹" },
 		"settingGroupShow": { "message": "是否折叠该分组" },
 		"settingGroupDisplay": { "message": "显示该分组" },
-		"settingGroupWindow": { "message": "设置为屏幕窗口" },
+		"settingGroupWindow": { "message": "设置为新的屏幕" },
+		"settingGroupWindowSaved": { "message": "已被设为新的屏幕" },
 	"settingNote": { "message": "笔记设置" },
 	"settingExplore": { "message": "探索" },
 		"headerInstructions": {
@@ -95,6 +103,7 @@
 		"settingEngineAdd": { "message": "添加搜索引擎" },
 		"settingEngineAddUrl": { "message": "URL（比如：https://bing.com/search?q=%s，需要带%s）" },
 		"settingEngineAddButton": { "message": "添加" },
+		"settingEngineSaved": { "message": "修改成功！请记得保存"},
 
 	"flomoSetting": { "message": "配置" }
 }
