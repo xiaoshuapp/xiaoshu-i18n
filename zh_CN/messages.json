@@ -87,6 +87,7 @@
 		"settingGroupDisplay": { "message": "显示该分组" },
 		"settingGroupWindow": { "message": "设置为新的屏幕" },
 		"settingGroupWindowSaved": { "message": "已被设为新的屏幕" },
+	"settingGroupLayout": { "message": "布局效果"},
 	"settingNote": { "message": "笔记设置" },
 	"settingExplore": { "message": "探索" },
 		"headerInstructions": {
