@@ -1,8 +1,8 @@
 {
-	"name": { "message": "小舒同学 - 基于书签的新标签页" },
-	"title": { "message": "小舒同学" },
+	"name": { "message": "Meteor New Tab - 让你的收藏夹再次伟大" },
+	"title": { "message": "Meteor New Tab" },
 	"description": {
-		"message": "我们费尽心思折腾我们的主页，却从来没好好整理过我们的收藏夹。小舒同学是省事、高效的新一代新建标签页浏览器扩展。我们再也不需要管理收藏夹的同时还要额外管理一个主页了！"
+		"message": "Meteor New Tab 基于你的收藏夹内容，帮你自动整理到标签页，让你的收藏夹在标签页上一目了然"
 	},
 
 	"gotIt": { "message": "我知道了" },
