@@ -27,12 +27,15 @@
 	"groupEmpty": { "message": "你的收藏夹没有内容，点击地址栏的星星图标添加书签<br />或者往下拉，添加别人分享的收藏夹吧！"},
 	"groupOpenAll": { "message": "打开所有一级卡片" },
 	"groupRemove": { "message": "你确定要删除吗？"},
+	"groupCol": { "message": "多栏"},
 	"groupColOne": { "message": "单栏"},
 	"groupColTwo": { "message": "双栏"},
 	"groupColThree": { "message": "三栏"},
-	"groupOrderDrag": { "message": "默认排序"},
+	"groupOrderDrag": { "message": "拖动模式"},
 	"groupOrderTitle": { "message": "标题正序"},
 	"groupOrderProgress": { "message": "进度正序"},
+	"groupOrderProgressReverse": { "message": "进度倒序"},
+	"groupOrderDateAdded": { "message": "添加时间"},
 
 	"catalogToTop": { "message": "回到顶部" },
 
