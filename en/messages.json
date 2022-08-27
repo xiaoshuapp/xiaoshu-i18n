@@ -41,6 +41,18 @@
 	"titleX": {
 		"message": "Title"
 	},
+	"accountLogin": {
+		"message": "Login"
+	},
+	"accountLoginNeeded": {
+		"message": "Please log in to use this feature"
+	},
+	"accountLogout": {
+		"message": "Logout"
+	},
+	"accountLoginWithGithub": {
+		"message": "Login with GitHub"
+	},
 	"groupEmpty": {
 		"message": "If your favorites have no content, click the star icon in the address bar to add a bookmark."
 	},
@@ -50,6 +62,9 @@
 	"groupRemove": {
 		"message": "Are you sure to remove it？"
 	},
+	"groupCol": {
+		"message": "Multicolumn"
+	},
 	"groupColOne": {
 		"message": "Single column"
 	},
@@ -58,6 +73,21 @@
 	},
 	"groupColThree": {
 		"message": "Three columns"
+	},
+	"groupOrderDrag": {
+		"message": "Drag Mode"
+	},
+	"groupOrderTitle": {
+		"message": "Title Ascending"
+	},
+	"groupOrderProgress": {
+		"message": "Progress Ascending"
+	},
+	"groupOrderProgressReverse": {
+		"message": "Progress Descending"
+	},
+	"groupOrderDateAdded": {
+		"message": "Added on"
 	},
 	"catalogToTop": {
 		"message": "Back to top"
@@ -214,6 +244,9 @@
 	},
 	"settingGroupWindowSaved": {
 		"message": "has been set to a new screen"
+	},
+	"settingGroupLayout": {
+		"message": "Layout Effect"
 	},
 	"settingNote": {
 		"message": "Note Settings"
