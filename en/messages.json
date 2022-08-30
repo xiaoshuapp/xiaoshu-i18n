@@ -20,6 +20,9 @@
 	"close": {
 		"message": "Close"
 	},
+	"closeTip": {
+		"message": "Your settings will not be saved"
+	},
 	"delete": {
 		"message": "Delete"
 	},
@@ -159,7 +162,7 @@
 		"message": "Animation @Wallpaper Abyss"
 	},
 	"settingCustomWallpaperGame": {
-		"message": "游戏 @Wallpaper Abyss"
+		"message": "Game @Wallpaper Abys"
 	},
 	"settingCustomWallpaperBing": {
 		"message": "Bing Daily Wallpaper"
