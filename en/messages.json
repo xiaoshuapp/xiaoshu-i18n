@@ -8,6 +8,15 @@
 	"description": {
 		"message": "Bookmarks, if well organized, is as important as a well-tuned homepage. Xiaoshu is a trouble-saving and efficient 2-in-1 extension that helps you easily organize your bookmarks and redefine your browser homepage."
 	},
+	"meteor_name": {
+		"message": "Meteor New Tab - Makes Your Bookmarks Great Again"
+	},
+	"meteor_title": {
+		"message": "Meteor"
+	},
+	"meteor_description": {
+		"message": "Meteor New Tab is based on your favorite contents to let your favorite be visible on the tab"
+	},
 	"gotIt": {
 		"message": "Got it"
 	},
@@ -313,6 +322,15 @@
 	},
 	"settingEngineSaved": {
 		"message": "Changed successfully! Please remember to save"
+	},
+	"settingBookmark": {
+		"message": "Bookmarks"
+	},
+	"settingBookmarkAutoFirst": {
+		"message": "Root Bookmarks Automatically Advance to Top"
+	},
+	"settingDrawerMode": {
+		"message": "Drawer Mode"
 	},
 	"flomoSetting": {
 		"message": "Configure"
