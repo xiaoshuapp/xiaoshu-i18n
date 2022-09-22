@@ -27,6 +27,7 @@
 	"titleX": { "message": "标题" },
 
 	"accountLogin": { "message": "登录" },
+	"accountLoginDes": { "message": "以解锁更多功能" },
 	"accountLoginNeeded": { "message": "请先登录后使用该功能" },
 	"accountLogout": { "message": "注销登录" },
 	"accountLoginWithGithub": { "message": "用 Github 登录" },
