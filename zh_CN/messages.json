@@ -30,6 +30,9 @@
 	"accountLoginNeeded": { "message": "请先登录后使用该功能" },
 	"accountLogout": { "message": "注销登录" },
 	"accountLoginWithGithub": { "message": "用 Github 登录" },
+	"accountFeature1": { "message": "更高清的图标" },
+	"accountFeature2": { "message": "书签排序" },
+	"accountFeature3": { "message": "持续新增……" },
 
 	"groupEmpty": {
 		"message": "你的收藏夹没有内容，点击地址栏的星星图标添加书签<br />或者往下拉，添加别人分享的收藏夹吧！"
