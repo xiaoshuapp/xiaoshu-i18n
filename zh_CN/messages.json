@@ -65,7 +65,7 @@
 
 	"cardSetting": { "message": "卡片效果" },
 	"cardSettingIcon": { "message": "卡片图标" },
-	"cardSettingType": { "message": "卡片显示类型：该设置对整个文件夹生效" },
+	"cardSettingType": { "message": "卡片类型" },
 
 	"folderSetting": { "message": "文件夹效果" },
 
