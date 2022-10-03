@@ -56,6 +56,9 @@
 	"accountLogin": {
 		"message": "Login"
 	},
+	"accountLoginDes": {
+		"message": "To unlock more features"
+	},
 	"accountLoginNeeded": {
 		"message": "Please log in to use this feature"
 	},
@@ -64,6 +67,15 @@
 	},
 	"accountLoginWithGithub": {
 		"message": "Login with GitHub"
+	},
+	"accountFeature1": {
+		"message": "Higher luxury icon"
+	},
+	"accountFeature2": {
+		"message": "Bookmark sorting"
+	},
+	"accountFeature3": {
+		"message": "Continue add……"
 	},
 	"groupEmpty": {
 		"message": "If your favorites have no content, click the star icon in the address bar to add a bookmark."
@@ -135,7 +147,7 @@
 		"message": "Card Icons"
 	},
 	"cardSettingType": {
-		"message": "Card display type: this setting is applied to the entire folder"
+		"message": "Card Type"
 	},
 	"folderSetting": {
 		"message": "Folder Effect"
