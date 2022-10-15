@@ -19,6 +19,7 @@
 	"delete": { "message": "删除" },
 	"done": { "message": "完成" },
 	"add": { "message": "添加" },
+	"waitingForAudit": { "message": "等待审核"},
 
 	"starTip": { "message": "你已经使用了一段时间了，来给个好评吧！" },
 	"ignore": { "message": "忽略" },
