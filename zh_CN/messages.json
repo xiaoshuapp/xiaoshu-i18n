@@ -110,6 +110,8 @@
 	"settingMoreCatalogRight": { "message": "快速目录靠右" },
 
 	"settingEffector": { "message": "效果器" },
+		"settingEffectorAdd": { "message": "提交"},
+		"settingEffectorMy": { "message": "我的"},
 	"settingGroup": { "message": "组/文件夹" },
 	"settingGroupShow": { "message": "是否折叠该分组" },
 	"settingGroupDisplay": { "message": "显示该分组" },
