@@ -152,5 +152,10 @@
 	"settingBookmarkAutoFirst": { "message": "根目录书签自动提前到最顶部" },
 	"settingDrawerMode": { "message": "抽屉模式" },
 
+	"settingBackup": { "message": "数据备份" },
+	"settingBackupBtn": { "message": "立即备份" },
+	"settingBackupTip": { "message": "我们最多保留最近 7 份备份数据" },
+	"settingBackupRestore": { "message": "即将覆盖当前数据，确定吗？" },
+
 	"flomoSetting": { "message": "配置" }
 }
