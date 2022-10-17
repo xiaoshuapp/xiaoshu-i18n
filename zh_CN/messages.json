@@ -122,11 +122,11 @@
 	"settingGroupLayout": { "message": "布局效果" },
 	"settingNote": { "message": "笔记设置" },
 	"settingExplore": { "message": "探索" },
+	"settingExploreNew": { "message": "新功能" },
 	"headerInstructions": {
 		"message": "你只需要整理你的收藏夹，小舒同学就会自动帮你生成该页。"
 	},
-	"settingInfo": { "message": "信息板" },
-	"settingChangelog": { "message": "更新日志" },
+	"settingExploreChangelog": { "message": "更新日志" },
 	"settingExploreStar": { "message": "觉得不错？给5星好评！" },
 	"settingExploreAuthor": { "message": "作者" },
 	"settingCurrentVersion": { "message": "你当前的版本" },
@@ -156,6 +156,7 @@
 	"settingBackupBtn": { "message": "立即备份" },
 	"settingBackupTip": { "message": "我们最多保留最近 7 份备份数据" },
 	"settingBackupRestore": { "message": "即将覆盖当前数据，确定吗？" },
-
+	"settingBackupDelete": { "message": "确定删除该备份吗？" },
+	"settingBackupExist": { "message": "当前配置备份已存在，要继续备份吗？" },
 	"flomoSetting": { "message": "配置" }
 }
