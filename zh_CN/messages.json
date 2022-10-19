@@ -23,6 +23,7 @@
 	"submit": { "message": "提交"},
 	"submitSuccess": { "message": "提交成功，请等待审核"},
 	"mine": { "message": "我的"},
+	"areyousure": { "message": "你确定吗？"},
 
 	"starTip": { "message": "你已经使用了一段时间了，来给个好评吧！" },
 	"ignore": { "message": "忽略" },
