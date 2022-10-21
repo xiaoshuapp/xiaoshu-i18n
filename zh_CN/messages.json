@@ -4,7 +4,7 @@
 	"description": {
 		"message": "我们费尽心思折腾我们的主页，却从来没好好整理过我们的收藏夹。小舒同学是省事、高效的新一代新建标签页浏览器扩展。我们再也不需要管理收藏夹的同时还要额外管理一个主页了！"
 	},
-	
+
 	"meteor_name": { "message": "Meteor New Tab - 让你的收藏夹再次伟大" },
 	"meteor_title": { "message": "Meteor" },
 	"meteor_description": {
@@ -19,11 +19,12 @@
 	"delete": { "message": "删除" },
 	"done": { "message": "完成" },
 	"add": { "message": "添加" },
-	"market": { "message": "市场"},
-	"submit": { "message": "提交"},
-	"submitSuccess": { "message": "提交成功，请等待审核"},
-	"mine": { "message": "我的"},
-	"areyousure": { "message": "你确定吗？"},
+	"market": { "message": "市场" },
+	"submit": { "message": "提交" },
+	"submitSuccess": { "message": "提交成功，请等待审核" },
+	"mine": { "message": "我的" },
+	"areyousure": { "message": "你确定吗？" },
+	"next": { "message": "下一步" },
 
 	"starTip": { "message": "你已经使用了一段时间了，来给个好评吧！" },
 	"ignore": { "message": "忽略" },
@@ -34,11 +35,18 @@
 	"accountLogin": { "message": "登录" },
 	"accountLoginDes": { "message": "以解锁更多功能" },
 	"accountLoginNeeded": { "message": "请先登录后使用该功能" },
+	"accountLoginEmailError": { "message": "你输入的似乎不是一个正确的邮箱" },
 	"accountLogout": { "message": "注销登录" },
+	"accountLoginSuccess": { "message": "登录成功" },
 	"accountLoginWithGithub": { "message": "用 Github 登录" },
+	"accountLoginTip": {
+		"message": "请将电子邮件中收到的链接手动复制到浏览器打开。邮件可能在邮箱的垃圾箱中。"
+	},
 	"accountFeature1": { "message": "更高清的图标" },
 	"accountFeature2": { "message": "书签排序" },
-	"accountFeature3": { "message": "持续新增……" },
+	"accountFeature3": { "message": "数据备份" },
+	"accountFeature4": { "message": "搜索引擎、效果器分享" },
+	"accountFeature": { "message": "持续新增……" },
 
 	"groupEmpty": {
 		"message": "你的收藏夹没有内容，点击地址栏的星星图标添加书签<br />或者往下拉，添加别人分享的收藏夹吧！"
@@ -61,7 +69,7 @@
 
 	"settingOver": { "message": "配置保存成功" },
 	"settingFail": { "message": "配置保存失败" },
-	"settingLayoutDes": { "message": "你的设置效果会被实时的展示在页面中。" },
+	"settingLayoutDes": { "message": "你的设置效果会被实时的展示在页面中" },
 
 	"settingCardEdit": { "message": "卡片编辑" },
 	"settingCardEditNowPage": { "message": "当前进度" },
@@ -99,6 +107,7 @@
 	"settingEffectorTip": {
 		"message": "为你的小舒同学添加额外效果，比如隐藏某些功能"
 	},
+	"settingEffectorEmpty": { "message": "清空你启用的效果器" },
 
 	"settingSenior": { "message": "高级设置" },
 	"settingOther": { "message": "其他设置" },
@@ -151,7 +160,14 @@
 
 	"settingBookmark": { "message": "收藏夹" },
 	"settingBookmarkAutoFirst": { "message": "根目录书签自动提前到最顶部" },
+	"settingBookmarkGrid": { "message": "收藏夹布局" },
+	"settingBookmarkGridDes": {
+		"message": "越大容纳的图标越多"
+	},
 	"settingDrawerMode": { "message": "抽屉模式" },
+	"settingDrawerModeDes": {
+		"message": "仅显示根目录书签，打开快速目录或下滑展开其他书签"
+	},
 
 	"settingBackup": { "message": "数据备份" },
 	"settingBackupBtn": { "message": "立即备份" },
