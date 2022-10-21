@@ -65,7 +65,7 @@
 
 	"catalogToTop": { "message": "回到顶部" },
 
-	"searchLabel": { "message": "在这里搜索🧐" },
+	"searchLabel": { "message": "在这里搜索🔍" },
 
 	"settingOver": { "message": "配置保存成功" },
 	"settingFail": { "message": "配置保存失败" },
