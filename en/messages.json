@@ -56,6 +56,12 @@
 	"areyousure": {
 		"message": "Are you sure?"
 	},
+	"next": {
+		"message": "Next"
+	},
+	"myShare": {
+		"message": "I shared"
+	},
 	"starTip": {
 		"message": "You have been in use for a while, so why not give a good rating to us!"
 	},
@@ -77,11 +83,20 @@
 	"accountLoginNeeded": {
 		"message": "Please log in to use this feature"
 	},
+	"accountLoginEmailError": {
+		"message": "It does not seem to be a valid email address"
+	},
 	"accountLogout": {
 		"message": "Logout"
 	},
+	"accountLoginSuccess": {
+		"message": "Login successful"
+	},
 	"accountLoginWithGithub": {
 		"message": "Login with GitHub"
+	},
+	"accountLoginTip": {
+		"message": "Please manually copy the link received in the email to the browser opening. The email may be in the spam box of the email."
 	},
 	"accountFeature1": {
 		"message": "Higher luxury icon"
@@ -90,6 +105,12 @@
 		"message": "Bookmark sorting"
 	},
 	"accountFeature3": {
+		"message": "Backups"
+	},
+	"accountFeature4": {
+		"message": "Search engine, effect share"
+	},
+	"accountFeature": {
 		"message": "Continue to add…"
 	},
 	"groupEmpty": {
@@ -132,7 +153,7 @@
 		"message": "Back to top"
 	},
 	"searchLabel": {
-		"message": "Search here 🧐"
+		"message": "Search here🔍"
 	},
 	"settingOver": {
 		"message": "Configuration successfully saved."
@@ -141,7 +162,7 @@
 		"message": "Failed to save configuration."
 	},
 	"settingLayoutDes": {
-		"message": "Your settings will be displayed in real-time on the page."
+		"message": "Your settings will be displayed in real-time on the page"
 	},
 	"settingCardEdit": {
 		"message": "Edit Card"
@@ -226,6 +247,9 @@
 	},
 	"settingEffectorTip": {
 		"message": "Add extra effects to your Xiaoshu, such as hiding some features"
+	},
+	"settingEffectorEmpty": {
+		"message": "Clear the effects you enabled"
 	},
 	"settingSenior": {
 		"message": "Advanced Settings"
@@ -359,8 +383,17 @@
 	"settingBookmarkAutoFirst": {
 		"message": "Root Bookmarks Automatically Advance to Top"
 	},
+	"settingBookmarkGrid": {
+		"message": "Bookmarks layout"
+	},
+	"settingBookmarkGridDes": {
+		"message": "The larger icons to be included"
+	},
 	"settingDrawerMode": {
 		"message": "Drawer Mode"
+	},
+	"settingDrawerModeDes": {
+		"message": "Show Root Bookmarks only, Open Quick Directory or Swipe to Expand Other Bookmarks"
 	},
 	"settingBackup": {
 		"message": "Backups"
