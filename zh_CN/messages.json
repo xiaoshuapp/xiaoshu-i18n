@@ -25,6 +25,7 @@
 	"mine": { "message": "我的" },
 	"areyousure": { "message": "你确定吗？" },
 	"next": { "message": "下一步" },
+	"myShare": { "message": "我分享的"},
 
 	"starTip": { "message": "你已经使用了一段时间了，来给个好评吧！" },
 	"ignore": { "message": "忽略" },
