@@ -127,7 +127,7 @@
 	"settingEffector": { "message": "效果器" },
 	"settingGroup": { "message": "组/文件夹" },
 	"settingGroupShow": { "message": "是否折叠该分组" },
-	"settingGroupDisplay": { "message": "显示该分组" },
+	"settingGroupDisplay": { "message": "隐藏" },
 	"settingGroupWindow": { "message": "设置为新的屏幕" },
 	"settingGroupWindowSaved": { "message": "已被设为新的屏幕" },
 	"settingGroupLayout": { "message": "布局效果" },
