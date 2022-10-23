@@ -97,8 +97,9 @@
 	"settingCustomWallpaperAnimation": { "message": "动漫 @Wallpaper Abyss" },
 	"settingCustomWallpaperGame": { "message": "游戏 @Wallpaper Abyss" },
 	"settingCustomWallpaperBing": { "message": "Bing 每日壁纸" },
-	"settingCustomWallpaperLocal": { "message": "上传本地壁纸" },
-
+	"settingCustomWallpaperLocal": { "message": "使用本地壁纸" },
+	"settingCustomWallpaperUpload": { "message": "上传壁纸" },
+	
 	"settingDark": { "message": "暗色模式" },
 	"settingHome": { "message": "设置" },
 	"settingGeneralNewtab": { "message": "在新建标签页打开链接" },
