@@ -25,7 +25,8 @@
 	"mine": { "message": "我的" },
 	"areyousure": { "message": "你确定吗？" },
 	"next": { "message": "下一步" },
-	"myShare": { "message": "我分享的"},
+	"myShare": { "message": "我分享的" },
+	"des": { "message": "描述" },
 
 	"starTip": { "message": "你已经使用了一段时间了，来给个好评吧！" },
 	"ignore": { "message": "忽略" },
@@ -99,7 +100,7 @@
 	"settingCustomWallpaperBing": { "message": "Bing 每日壁纸" },
 	"settingCustomWallpaperLocal": { "message": "使用本地壁纸" },
 	"settingCustomWallpaperUpload": { "message": "上传壁纸" },
-	
+
 	"settingDark": { "message": "暗色模式" },
 	"settingHome": { "message": "设置" },
 	"settingGeneralNewtab": { "message": "在新建标签页打开链接" },
