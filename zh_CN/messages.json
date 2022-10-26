@@ -25,6 +25,7 @@
 	"mine": { "message": "我的" },
 	"areyousure": { "message": "你确定吗？" },
 	"next": { "message": "下一步" },
+	"prev": { "message": "上一步"},
 	"myShare": { "message": "我分享的" },
 	"des": { "message": "描述" },
 
