@@ -179,5 +179,7 @@
 	"settingBackupRestore": { "message": "即将覆盖当前数据，确定吗？" },
 	"settingBackupDelete": { "message": "确定删除该备份吗？" },
 	"settingBackupExist": { "message": "当前配置备份已存在，要继续备份吗？" },
-	"flomoSetting": { "message": "配置" }
+	"flomoSetting": { "message": "配置" },
+
+	"toolBarNewFolder": { "message": "新建文件夹"}
 }
