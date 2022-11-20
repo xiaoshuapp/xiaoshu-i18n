@@ -106,6 +106,8 @@
 	"settingHome": { "message": "设置" },
 	"settingGeneralNewtab": { "message": "在新建标签页打开链接" },
 	"settingGeneralTransition": { "message": "动画效果" },
+	"settingGeneralOverride": { "message": "覆盖新标签页"},
+	"settingGeneralAutoFocus": { "message": "搜索框自动获取焦点"},
 	"settingSkinDark": { "message": "暗色模式跟随系统" },
 	"headerDark": { "message": "已关闭 暗色模式跟随系统" },
 	"settingEffectorTip": {
