@@ -28,6 +28,7 @@
 	"prev": { "message": "上一步"},
 	"myShare": { "message": "我分享的" },
 	"des": { "message": "描述" },
+	"enabled": { "message": "已启用" },
 
 	"starTip": { "message": "你已经使用了一段时间了，来给个好评吧！" },
 	"ignore": { "message": "忽略" },
