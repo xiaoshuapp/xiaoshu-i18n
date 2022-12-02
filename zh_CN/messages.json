@@ -15,7 +15,6 @@
 	"save": { "message": "保存" },
 	"apply": { "message": "应用" },
 	"close": { "message": "关闭" },
-	"closeTip": { "message": "将不会保存你的设置" },
 	"delete": { "message": "删除" },
 	"done": { "message": "完成" },
 	"add": { "message": "添加" },
