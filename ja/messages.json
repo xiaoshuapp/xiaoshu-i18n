@@ -1,419 +1,437 @@
 {
-	"name": {
-		"message": "舒同学 - ブックマークに基づいて新しいタブ"
-	},
-	"title": {
-		"message": "舒同学"
-	},
-	"description": {
-		"message": "ホームページを完ぺきに飽きますが、当社のお気に入り整理は成し遂げることはありません。小シューズは新しくなったブラウザー拡張を追加することです。"
-	},
-	"meteor_name": {
-		"message": "Meteor New Tab - あなたのお気に入りを増やします"
-	},
-	"meteor_title": {
-		"message": "Meteor"
-	},
-	"meteor_description": {
-		"message": "Meteor New Tab はあなたのお気に入りラインの値に基づき、タブを開いたままになります。"
-	},
-	"gotIt": {
-		"message": "了解"
-	},
-	"save": {
-		"message": "保存"
-	},
-	"apply": {
-		"message": "適用"
-	},
-	"close": {
-		"message": "閉じる"
-	},
-	"closeTip": {
-		"message": "設定は保存されません"
-	},
-	"delete": {
-		"message": "削除"
-	},
-	"done": {
-		"message": "完了"
-	},
-	"add": {
-		"message": "追加"
-	},
-	"market": {
-		"message": "マーケットプレイス"
-	},
-	"submit": {
-		"message": "送信"
-	},
-	"submitSuccess": {
-		"message": "送信に成功しましたので、レビューをお待ちください"
-	},
-	"mine": {
-		"message": "私の"
-	},
-	"areyousure": {
-		"message": "よろしいですか?"
-	},
-	"next": {
-		"message": "次へ"
-	},
-	"myShare": {
-		"message": "採掘のみ行う"
-	},
-	"starTip": {
-		"message": "既に使用済みの期間、既に評価をお願いします!"
-	},
-	"ignore": {
-		"message": "無視する"
-	},
-	"praise": {
-		"message": "評価に行く"
-	},
-	"titleX": {
-		"message": "タイトル"
-	},
-	"accountLogin": {
-		"message": "ログイン"
-	},
-	"accountLoginDes": {
-		"message": "より多くの機能のロックを解除する"
-	},
-	"accountLoginNeeded": {
-		"message": "この機能を使用するには、ログインする必要があります。"
-	},
-	"accountLoginEmailError": {
-		"message": "入力されたメールアドレスは有効なメールアドレスではないようです。"
-	},
-	"accountLogout": {
-		"message": "ログオフ"
-	},
-	"accountLoginSuccess": {
-		"message": "ログイン成功"
-	},
-	"accountLoginWithGithub": {
-		"message": "GitHubでログイン"
-	},
-	"accountLoginTip": {
-		"message": "手前のメールから手動でブラウザにコピーしてください。メールはゴミ箱にケース内に作成されます。"
-	},
-	"accountFeature1": {
-		"message": "高清めのアイコン"
-	},
-	"accountFeature2": {
-		"message": "ブックマークの順序"
-	},
-	"accountFeature3": {
-		"message": "データのバックアップ"
-	},
-	"accountFeature4": {
-		"message": "検索エンジンやエフェクトをシェア"
-	},
-	"accountFeature": {
-		"message": "……"
-	},
-	"groupEmpty": {
-		"message": "ブックマークが存在しないため、アドレス バーの 1 つアイコンをクリックしてブックマークを追加<br />またはプルダウンしてお気に入りに追加してください。"
-	},
-	"groupOpenAll": {
-		"message": "全レベルカードを開く"
-	},
-	"groupRemove": {
-		"message": "削除しますか？"
-	},
-	"groupCol": {
-		"message": "マルチバー"
-	},
-	"groupColOne": {
-		"message": "シングル"
-	},
-	"groupColTwo": {
-		"message": "ダブル バー"
-	},
-	"groupColThree": {
-		"message": "凝縮"
-	},
-	"groupOrderDrag": {
-		"message": "ドラッグモード"
-	},
-	"groupOrderTitle": {
-		"message": "タイトル順"
-	},
-	"groupOrderProgress": {
-		"message": "プログレス番号"
-	},
-	"groupOrderProgressReverse": {
-		"message": "進歩の順序"
-	},
-	"groupOrderDateAdded": {
-		"message": "時間帯の追加"
-	},
-	"catalogToTop": {
-		"message": "トップに戻る"
-	},
-	"searchLabel": {
-		"message": "ここで 🔍"
-	},
-	"settingOver": {
-		"message": "設定を保存しました。"
-	},
-	"settingFail": {
-		"message": "構成の保存に失敗しました"
-	},
-	"settingLayoutDes": {
-		"message": "設定が適用された場合、ページ内の効果が反映されます"
-	},
-	"settingCardEdit": {
-		"message": "カード編集"
-	},
-	"settingCardEditNowPage": {
-		"message": "現在の進行状況"
-	},
-	"settingCardEditTotalPage": {
-		"message": "全体的な進捗状況"
-	},
-	"settingCardEditDateAdded": {
-		"message": "追加日時:："
-	},
-	"cardSetting": {
-		"message": "カードのエフェクト"
-	},
-	"cardSettingIcon": {
-		"message": "カードアイコン"
-	},
-	"cardSettingType": {
-		"message": "カードタイプ"
-	},
-	"folderSetting": {
-		"message": "フォルダー効果"
-	},
-	"settingCustom": {
-		"message": "テーマをカスタマイズ"
-	},
-	"settingCustomTheme": {
-		"message": "テーマ"
-	},
-	"settingCustomColor": {
-		"message": "メインカラー"
-	},
-	"settingCustomWallpaper": {
-		"message": "背景画像"
-	},
-	"settingCustomWallpaperSpecial": {
-		"message": "スペシャル"
-	},
-	"settingCustomWallpaperSpecialBing": {
-		"message": "ビンテージ風の壁紙 @paugram"
-	},
-	"settingCustomWallpaperSpecialACG": {
-		"message": "ACG壁紙をランダムにする @toubiec"
-	},
-	"settingCustomWallpaperXiaoshu": {
-		"message": "シュート @oceanzhuo"
-	},
-	"settingCustomWallpaperMinimalize": {
-		"message": "ミニマント @wickedbackground"
-	},
-	"settingCustomWallpaperAnimation": {
-		"message": "アニメ @Walls aper Abyss"
-	},
-	"settingCustomWallpaperGame": {
-		"message": "ゲーム内@Walls aper Abyss"
-	},
-	"settingCustomWallpaperBing": {
-		"message": "Bing 今日の壁紙"
-	},
-	"settingCustomWallpaperLocal": {
-		"message": "ローカルの壁紙をアップロード"
-	},
-	"settingDark": {
-		"message": "ダークモード"
-	},
-	"settingHome": {
-		"message": "一般設定"
-	},
-	"settingGeneralNewtab": {
-		"message": "リンクを新しいタブで開く"
-	},
-	"settingGeneralTransition": {
-		"message": "アニメーション"
-	},
-	"settingSkinDark": {
-		"message": "ダークモードはシステム"
-	},
-	"headerDark": {
-		"message": "夜間モードの追跡システムを停止しました"
-	},
-	"settingEffectorTip": {
-		"message": "特長隠し機能などの追加機能。"
-	},
-	"settingEffectorEmpty": {
-		"message": "効果リストをクリアします。"
-	},
-	"settingSenior": {
-		"message": "詳細設定"
-	},
-	"settingOther": {
-		"message": "その他の設定"
-	},
-	"settingMore": {
-		"message": "詳細設定"
-	},
-	"settingLayoutAlignment": {
-		"message": "配置"
-	},
-	"settingLayoutHeadLayout": {
-		"message": "先頭レイアウト"
-	},
-	"settingLayoutSearchBoxWidth": {
-		"message": "検索ボックスの幅"
-	},
-	"settingLayoutFolderLayout": {
-		"message": "タイトル設定"
-	},
-	"settingLayoutTitleMarginTop": {
-		"message": "ヘッダーの実行間隔"
-	},
-	"settingLayoutCardLayout": {
-		"message": "タイルのレイアウト"
-	},
-	"cardSettingMargin": {
-		"message": "カードの間隔"
-	},
-	"settingLayoutStrip12": {
-		"message": "長いバーカード"
-	},
-	"settingMoreCatalog": {
-		"message": "クイックディレクトリ"
-	},
-	"settingMoreCatalogRight": {
-		"message": "右クイックフォルダに変更する"
-	},
-	"settingEffector": {
-		"message": "エフェクト"
-	},
-	"settingGroup": {
-		"message": "グループ/フォルダ"
-	},
-	"settingGroupShow": {
-		"message": "このグループをクローズ"
-	},
-	"settingGroupDisplay": {
-		"message": "グループを表示"
-	},
-	"settingGroupWindow": {
-		"message": "新しいスクリーンとして設定"
-	},
-	"settingGroupWindowSaved": {
-		"message": "新しい画面に設定されました"
-	},
-	"settingGroupLayout": {
-		"message": "レイアウト効果"
-	},
-	"settingNote": {
-		"message": "メモの設定"
-	},
-	"settingExplore": {
-		"message": "発見"
-	},
-	"settingExploreNew": {
-		"message": "更新内容"
-	},
-	"headerInstructions": {
-		"message": "お気に入りを一つだけ整理してすぐに、ジャンプすると自動的に返信が表示されます。"
-	},
-	"settingExploreChangelog": {
-		"message": "パッチ ノート"
-	},
-	"settingExploreStar": {
-		"message": "気に入りましたか？5つ星を評価"
-	},
-	"settingExploreAuthor": {
-		"message": "著者"
-	},
-	"settingCurrentVersion": {
-		"message": "最新バージョン"
-	},
-	"settingBanner": {
-		"message": "頭バナー"
-	},
-	"settingBannerYours": {
-		"message": "あなたのバナー"
-	},
-	"settingBannerAdd": {
-		"message": "バナーの追加"
-	},
-	"settingEngine": {
-		"message": "カスタム"
-	},
-	"settingEngineYours": {
-		"message": "有効な検索エンジン"
-	},
-	"settingEngineOther": {
-		"message": "その他の検索エンジン"
-	},
-	"settingEngineSubmit": {
-		"message": "マーケットにシェア"
-	},
-	"engineIcon": {
-		"message": "検索エンジンを切り替える"
-	},
-	"engineChip": {
-		"message": "検索エンジン切り替え："
-	},
-	"engineQuick": {
-		"message": "一時的な使い方"
-	},
-	"settingEngineAdd": {
-		"message": "検索エンジンを追加"
-	},
-	"settingEngineAddUrl": {
-		"message": "URL（例：https://bing.com/search?q=%s）で%s"
-	},
-	"settingEngineAddButton": {
-		"message": "追加"
-	},
-	"settingEngineSaved": {
-		"message": "変更は保存されます!"
-	},
-	"settingBookmark": {
-		"message": "ブックマーク"
-	},
-	"settingBookmarkAutoFirst": {
-		"message": "ルートディレクトリにあるブックマークを自動的に開始する"
-	},
-	"settingBookmarkGrid": {
-		"message": "お気に入りのレイアウト"
-	},
-	"settingBookmarkGridDes": {
-		"message": "大きければ大きいアイコンほど多いです"
-	},
-	"settingDrawerMode": {
-		"message": "ドロワーモード"
-	},
-	"settingDrawerModeDes": {
-		"message": "ブックマーク表示(ブックマーク) のみ表示されます、クイックフォルダを開くか、ブックマークツールバーが下になったら"
-	},
-	"settingBackup": {
-		"message": "データのバックアップ"
-	},
-	"settingBackupBtn": {
-		"message": "今すぐバックアップ"
-	},
-	"settingBackupTip": {
-		"message": "直近7のバックアップデータを維持します"
-	},
-	"settingBackupRestore": {
-		"message": "現在のデータを上書きします。よろしいですか？"
-	},
-	"settingBackupDelete": {
-		"message": "このバックアップを削除しますか?"
-	},
-	"settingBackupExist": {
-		"message": "この構成のバックアップは既に存在します。バックアップを続行しますか？"
-	},
-	"flomoSetting": {
-		"message": "flomoの設定"
-	}
+  "name": {
+    "message": "舒同学 - ブックマークに基づいて新しいタブ"
+  },
+  "title": {
+    "message": "舒同学"
+  },
+  "description": {
+    "message": "ホームページを完ぺきに飽きますが、当社のお気に入り整理は成し遂げることはありません。小シューズは新しくなったブラウザー拡張を追加することです。"
+  },
+  "meteor_name": {
+    "message": "Meteor New Tab - あなたのお気に入りを増やします"
+  },
+  "meteor_title": {
+    "message": "Meteor"
+  },
+  "meteor_description": {
+    "message": "Meteor New Tab はあなたのお気に入りラインの値に基づき、タブを開いたままになります。"
+  },
+  "gotIt": {
+    "message": "了解"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "apply": {
+    "message": "適用"
+  },
+  "close": {
+    "message": "閉じる"
+  },
+  "closeTip": {
+    "message": "設定は保存されません"
+  },
+  "delete": {
+    "message": "削除"
+  },
+  "done": {
+    "message": "完了"
+  },
+  "add": {
+    "message": "追加"
+  },
+  "market": {
+    "message": "マーケットプレイス"
+  },
+  "submit": {
+    "message": "送信"
+  },
+  "submitSuccess": {
+    "message": "送信に成功しましたので、レビューをお待ちください"
+  },
+  "mine": {
+    "message": "私の"
+  },
+  "areyousure": {
+    "message": "よろしいですか?"
+  },
+  "next": {
+    "message": "次へ"
+  },
+  "myShare": {
+    "message": "採掘のみ行う"
+  },
+  "starTip": {
+    "message": "既に使用済みの期間、既に評価をお願いします!"
+  },
+  "ignore": {
+    "message": "無視する"
+  },
+  "praise": {
+    "message": "評価に行く"
+  },
+  "titleX": {
+    "message": "タイトル"
+  },
+  "accountLogin": {
+    "message": "ログイン"
+  },
+  "accountLoginDes": {
+    "message": "より多くの機能のロックを解除する"
+  },
+  "accountLoginNeeded": {
+    "message": "この機能を使用するには、ログインする必要があります。"
+  },
+  "accountLoginEmailError": {
+    "message": "入力されたメールアドレスは有効なメールアドレスではないようです。"
+  },
+  "accountLogout": {
+    "message": "ログオフ"
+  },
+  "accountLoginSuccess": {
+    "message": "ログイン成功"
+  },
+  "accountLoginWithGithub": {
+    "message": "GitHubでログイン"
+  },
+  "accountLoginTip": {
+    "message": "手前のメールから手動でブラウザにコピーしてください。メールはゴミ箱にケース内に作成されます。"
+  },
+  "accountFeature1": {
+    "message": "高清めのアイコン"
+  },
+  "accountFeature2": {
+    "message": "ブックマークの順序"
+  },
+  "accountFeature3": {
+    "message": "データのバックアップ"
+  },
+  "accountFeature4": {
+    "message": "検索エンジンやエフェクトをシェア"
+  },
+  "accountFeature": {
+    "message": "……"
+  },
+  "groupEmpty": {
+    "message": "ブックマークが存在しないため、アドレス バーの 1 つアイコンをクリックしてブックマークを追加<br />またはプルダウンしてお気に入りに追加してください。"
+  },
+  "groupOpenAll": {
+    "message": "全レベルカードを開く"
+  },
+  "groupRemove": {
+    "message": "削除しますか？"
+  },
+  "groupCol": {
+    "message": "マルチバー"
+  },
+  "groupColOne": {
+    "message": "シングル"
+  },
+  "groupColTwo": {
+    "message": "ダブル バー"
+  },
+  "groupColThree": {
+    "message": "凝縮"
+  },
+  "groupOrderDrag": {
+    "message": "ドラッグモード"
+  },
+  "groupOrderTitle": {
+    "message": "タイトル順"
+  },
+  "groupOrderProgress": {
+    "message": "プログレス番号"
+  },
+  "groupOrderProgressReverse": {
+    "message": "進歩の順序"
+  },
+  "groupOrderDateAdded": {
+    "message": "時間帯の追加"
+  },
+  "catalogToTop": {
+    "message": "トップに戻る"
+  },
+  "searchLabel": {
+    "message": "ここで 🔍"
+  },
+  "settingOver": {
+    "message": "設定を保存しました。"
+  },
+  "settingFail": {
+    "message": "構成の保存に失敗しました"
+  },
+  "settingLayoutDes": {
+    "message": "設定が適用された場合、ページ内の効果が反映されます"
+  },
+  "settingCardEdit": {
+    "message": "カード編集"
+  },
+  "settingCardEditNowPage": {
+    "message": "現在の進行状況"
+  },
+  "settingCardEditTotalPage": {
+    "message": "全体的な進捗状況"
+  },
+  "settingCardEditDateAdded": {
+    "message": "追加日時:："
+  },
+  "cardSetting": {
+    "message": "カードのエフェクト"
+  },
+  "cardSettingIcon": {
+    "message": "カードアイコン"
+  },
+  "cardSettingType": {
+    "message": "カードタイプ"
+  },
+  "folderSetting": {
+    "message": "フォルダー効果"
+  },
+  "settingCustom": {
+    "message": "テーマをカスタマイズ"
+  },
+  "settingCustomTheme": {
+    "message": "テーマ"
+  },
+  "settingCustomColor": {
+    "message": "メインカラー"
+  },
+  "settingCustomWallpaper": {
+    "message": "背景画像"
+  },
+  "settingCustomWallpaperSpecial": {
+    "message": "スペシャル"
+  },
+  "settingCustomWallpaperSpecialBing": {
+    "message": "ビンテージ風の壁紙 @paugram"
+  },
+  "settingCustomWallpaperSpecialACG": {
+    "message": "ACG壁紙をランダムにする @toubiec"
+  },
+  "settingCustomWallpaperXiaoshu": {
+    "message": "シュート @oceanzhuo"
+  },
+  "settingCustomWallpaperMinimalize": {
+    "message": "ミニマント @wickedbackground"
+  },
+  "settingCustomWallpaperAnimation": {
+    "message": "アニメ @Walls aper Abyss"
+  },
+  "settingCustomWallpaperGame": {
+    "message": "ゲーム内@Walls aper Abyss"
+  },
+  "settingCustomWallpaperBing": {
+    "message": "Bing 今日の壁紙"
+  },
+  "settingCustomWallpaperLocal": {
+    "message": "ローカルの壁紙をアップロード"
+  },
+  "settingDark": {
+    "message": "ダークモード"
+  },
+  "settingHome": {
+    "message": "一般設定"
+  },
+  "settingGeneralNewtab": {
+    "message": "リンクを新しいタブで開く"
+  },
+  "settingGeneralTransition": {
+    "message": "アニメーション"
+  },
+  "settingSkinDark": {
+    "message": "ダークモードはシステム"
+  },
+  "headerDark": {
+    "message": "夜間モードの追跡システムを停止しました"
+  },
+  "settingEffectorTip": {
+    "message": "特長隠し機能などの追加機能。"
+  },
+  "settingEffectorEmpty": {
+    "message": "効果リストをクリアします。"
+  },
+  "settingSenior": {
+    "message": "詳細設定"
+  },
+  "settingOther": {
+    "message": "その他の設定"
+  },
+  "settingMore": {
+    "message": "詳細設定"
+  },
+  "settingLayoutAlignment": {
+    "message": "配置"
+  },
+  "settingLayoutHeadLayout": {
+    "message": "先頭レイアウト"
+  },
+  "settingLayoutSearchBoxWidth": {
+    "message": "検索ボックスの幅"
+  },
+  "settingLayoutFolderLayout": {
+    "message": "タイトル設定"
+  },
+  "settingLayoutTitleMarginTop": {
+    "message": "ヘッダーの実行間隔"
+  },
+  "settingLayoutCardLayout": {
+    "message": "タイルのレイアウト"
+  },
+  "cardSettingMargin": {
+    "message": "カードの間隔"
+  },
+  "settingLayoutStrip12": {
+    "message": "長いバーカード"
+  },
+  "settingMoreCatalog": {
+    "message": "クイックディレクトリ"
+  },
+  "settingMoreCatalogRight": {
+    "message": "右クイックフォルダに変更する"
+  },
+  "settingEffector": {
+    "message": "エフェクト"
+  },
+  "settingGroup": {
+    "message": "グループ/フォルダ"
+  },
+  "settingGroupShow": {
+    "message": "このグループをクローズ"
+  },
+  "settingGroupDisplay": {
+    "message": "グループを表示"
+  },
+  "settingGroupWindow": {
+    "message": "新しいスクリーンとして設定"
+  },
+  "settingGroupWindowSaved": {
+    "message": "新しい画面に設定されました"
+  },
+  "settingGroupLayout": {
+    "message": "レイアウト効果"
+  },
+  "settingNote": {
+    "message": "メモの設定"
+  },
+  "settingExplore": {
+    "message": "発見"
+  },
+  "settingExploreNew": {
+    "message": "更新内容"
+  },
+  "headerInstructions": {
+    "message": "お気に入りを一つだけ整理してすぐに、ジャンプすると自動的に返信が表示されます。"
+  },
+  "settingExploreChangelog": {
+    "message": "パッチ ノート"
+  },
+  "settingExploreStar": {
+    "message": "気に入りましたか？5つ星を評価"
+  },
+  "settingExploreAuthor": {
+    "message": "著者"
+  },
+  "settingCurrentVersion": {
+    "message": "最新バージョン"
+  },
+  "settingBanner": {
+    "message": "頭バナー"
+  },
+  "settingBannerYours": {
+    "message": "あなたのバナー"
+  },
+  "settingBannerAdd": {
+    "message": "バナーの追加"
+  },
+  "settingEngine": {
+    "message": "カスタム"
+  },
+  "settingEngineYours": {
+    "message": "有効な検索エンジン"
+  },
+  "settingEngineOther": {
+    "message": "その他の検索エンジン"
+  },
+  "settingEngineSubmit": {
+    "message": "マーケットにシェア"
+  },
+  "engineIcon": {
+    "message": "検索エンジンを切り替える"
+  },
+  "engineChip": {
+    "message": "検索エンジン切り替え："
+  },
+  "engineQuick": {
+    "message": "一時的な使い方"
+  },
+  "settingEngineAdd": {
+    "message": "検索エンジンを追加"
+  },
+  "settingEngineAddUrl": {
+    "message": "URL（例：https://bing.com/search?q=%s）で%s"
+  },
+  "settingEngineAddButton": {
+    "message": "追加"
+  },
+  "settingEngineSaved": {
+    "message": "変更は保存されます!"
+  },
+  "settingBookmark": {
+    "message": "ブックマーク"
+  },
+  "settingBookmarkAutoFirst": {
+    "message": "ルートディレクトリにあるブックマークを自動的に開始する"
+  },
+  "settingBookmarkGrid": {
+    "message": "お気に入りのレイアウト"
+  },
+  "settingBookmarkGridDes": {
+    "message": "大きければ大きいアイコンほど多いです"
+  },
+  "settingDrawerMode": {
+    "message": "ドロワーモード"
+  },
+  "settingDrawerModeDes": {
+    "message": "ブックマーク表示(ブックマーク) のみ表示されます、クイックフォルダを開くか、ブックマークツールバーが下になったら"
+  },
+  "settingBackup": {
+    "message": "データのバックアップ"
+  },
+  "settingBackupBtn": {
+    "message": "今すぐバックアップ"
+  },
+  "settingBackupTip": {
+    "message": "直近7のバックアップデータを維持します"
+  },
+  "settingBackupRestore": {
+    "message": "現在のデータを上書きします。よろしいですか？"
+  },
+  "settingBackupDelete": {
+    "message": "このバックアップを削除しますか?"
+  },
+  "settingBackupExist": {
+    "message": "この構成のバックアップは既に存在します。バックアップを続行しますか？"
+  },
+  "flomoSetting": {
+    "message": "flomoの設定"
+  },
+  "settingLayoutCardTypeSquare": {
+    "message": ""
+  },
+  "settingLayoutDisplayFolderTitle": {
+    "message": ""
+  },
+  "settingLayoutDisplayIconTitle": {
+    "message": ""
+  },
+  "settingLayoutIconLayout": {
+    "message": ""
+  },
+  "settingSkin": {
+    "message": ""
+  },
+  "des": {
+    "message": ""
+  }
 }
