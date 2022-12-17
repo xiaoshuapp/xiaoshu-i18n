@@ -29,9 +29,6 @@
 	"close": {
 		"message": "Close"
 	},
-	"closeTip": {
-		"message": "Your settings will not be saved"
-	},
 	"delete": {
 		"message": "Delete"
 	},
@@ -59,8 +56,17 @@
 	"next": {
 		"message": "Next"
 	},
+	"prev": {
+		"message": "Previous"
+	},
 	"myShare": {
 		"message": "I shared"
+	},
+	"des": {
+		"message": "Description"
+	},
+	"enabled": {
+		"message": "Enabled"
 	},
 	"starTip": {
 		"message": "You have been in use for a while, so why not give a good rating to us!"
@@ -225,7 +231,10 @@
 		"message": "Bing Daily Wallpaper"
 	},
 	"settingCustomWallpaperLocal": {
-		"message": "Upload Local Wallpapers"
+		"message": "Use Local Wallpaper"
+	},
+	"settingCustomWallpaperUpload": {
+		"message": "Upload Wallpaper"
 	},
 	"settingDark": {
 		"message": "Dark mode"
@@ -238,6 +247,12 @@
 	},
 	"settingGeneralTransition": {
 		"message": "Animation"
+	},
+	"settingGeneralOverride": {
+		"message": "Overwrite New Tab"
+	},
+	"settingGeneralAutoFocus": {
+		"message": "Auto-focus search box"
 	},
 	"settingSkinDark": {
 		"message": "Dark Mode Following System"
@@ -300,7 +315,7 @@
 		"message": "Expand Current Group"
 	},
 	"settingGroupDisplay": {
-		"message": "Show Current Group"
+		"message": "Hidden"
 	},
 	"settingGroupWindow": {
 		"message": "Set as Screen Window"
@@ -415,5 +430,8 @@
 	},
 	"flomoSetting": {
 		"message": "Configure"
+	},
+	"toolBarNewFolder": {
+		"message": "Create new folder"
 	}
 }
