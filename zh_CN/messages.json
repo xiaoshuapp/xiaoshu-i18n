@@ -28,6 +28,8 @@
 	"myShare": { "message": "我分享的" },
 	"des": { "message": "描述" },
 	"enabled": { "message": "已启用" },
+	"confirm": { "message": "确认" },
+	"cancel": { "message": "取消" },
 
 	"starTip": { "message": "你已经使用了一段时间了，来给个好评吧！" },
 	"ignore": { "message": "忽略" },
@@ -74,7 +76,8 @@
 	"settingFail": { "message": "配置保存失败" },
 	"settingLayoutDes": { "message": "你的设置效果会被实时的展示在页面中" },
 
-	"settingCardEdit": { "message": "卡片编辑" },
+	"settingCardEdit": { "message": "编辑" },
+	"settingCardMove": { "message": "移动" },
 	"settingCardEditNowPage": { "message": "当前进度" },
 	"settingCardEditTotalPage": { "message": "总进度" },
 	"settingCardEditDateAdded": { "message": "添加时间：" },
