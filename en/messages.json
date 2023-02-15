@@ -68,6 +68,12 @@
 	"enabled": {
 		"message": "Enabled"
 	},
+	"confirm": {
+		"message": "Confirm"
+	},
+	"cancel": {
+		"message": "Cancel"
+	},
 	"starTip": {
 		"message": "You have been in use for a while, so why not give a good rating to us!"
 	},
@@ -171,7 +177,10 @@
 		"message": "Your settings will be displayed in real-time on the page"
 	},
 	"settingCardEdit": {
-		"message": "Edit Card"
+		"message": "Edit"
+	},
+	"settingCardMove": {
+		"message": "Move"
 	},
 	"settingCardEditNowPage": {
 		"message": "Current Progress"
