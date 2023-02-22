@@ -114,7 +114,7 @@
 	"settingSkinDark": { "message": "暗色模式跟随系统" },
 	"headerDark": { "message": "已关闭 暗色模式跟随系统" },
 	"settingEffectorTip": {
-		"message": "为你的小舒同学添加额外效果，比如隐藏某些功能"
+		"message": "为你的小舒同学添加额外效果，比如隐藏某些功能。注：效果器由用户提交，不保证可用性"
 	},
 	"settingEffectorEmpty": { "message": "清空你启用的效果器" },
 
