@@ -38,20 +38,10 @@
 	"titleX": { "message": "标题" },
 
 	"accountLogin": { "message": "登录" },
-	"accountLoginDes": { "message": "以解锁更多功能" },
 	"accountLoginNeeded": { "message": "请先登录后使用该功能" },
-	"accountLoginEmailError": { "message": "你输入的似乎不是一个正确的邮箱" },
 	"accountLogout": { "message": "注销登录" },
 	"accountLoginSuccess": { "message": "登录成功" },
-	"accountLoginWithGithub": { "message": "用 Github 登录" },
-	"accountLoginTip": {
-		"message": "请将电子邮件中收到的链接手动复制到浏览器打开。邮件可能在邮箱的垃圾箱中。"
-	},
-	"accountFeature1": { "message": "更高清的图标" },
-	"accountFeature2": { "message": "书签排序" },
-	"accountFeature3": { "message": "数据备份" },
-	"accountFeature4": { "message": "搜索引擎、效果器分享" },
-	"accountFeature": { "message": "持续新增……" },
+
 
 	"groupEmpty": {
 		"message": "你的收藏夹没有内容，点击地址栏的星星图标添加书签<br />或者往下拉，添加别人分享的收藏夹吧！"
