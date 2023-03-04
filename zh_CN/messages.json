@@ -24,14 +24,13 @@
 	"mine": { "message": "我的" },
 	"areyousure": { "message": "你确定吗？" },
 	"next": { "message": "下一步" },
-	"prev": { "message": "上一步"},
+	"prev": { "message": "上一步" },
 	"myShare": { "message": "我分享的" },
 	"des": { "message": "描述" },
 	"enabled": { "message": "已启用" },
 	"confirm": { "message": "确认" },
 	"cancel": { "message": "取消" },
 
-	"starTip": { "message": "你已经使用了一段时间了，来给个好评吧！" },
 	"ignore": { "message": "忽略" },
 	"praise": { "message": "去好评" },
 
@@ -41,7 +40,6 @@
 	"accountLoginNeeded": { "message": "请先登录后使用该功能" },
 	"accountLogout": { "message": "注销登录" },
 	"accountLoginSuccess": { "message": "登录成功" },
-
 
 	"groupEmpty": {
 		"message": "你的收藏夹没有内容，点击地址栏的星星图标添加书签<br />或者往下拉，添加别人分享的收藏夹吧！"
@@ -99,8 +97,8 @@
 	"settingHome": { "message": "设置" },
 	"settingGeneralNewtab": { "message": "在新建标签页打开链接" },
 	"settingGeneralTransition": { "message": "动画效果" },
-	"settingGeneralOverride": { "message": "覆盖新标签页"},
-	"settingGeneralAutoFocus": { "message": "搜索框自动获取焦点"},
+	"settingGeneralOverride": { "message": "覆盖新标签页" },
+	"settingGeneralAutoFocus": { "message": "搜索框自动获取焦点" },
 	"settingSkinDark": { "message": "暗色模式跟随系统" },
 	"headerDark": { "message": "已关闭 暗色模式跟随系统" },
 	"settingEffectorTip": {
@@ -131,12 +129,14 @@
 	"settingGroupLayout": { "message": "布局效果" },
 	"settingNote": { "message": "笔记设置" },
 	"settingExplore": { "message": "探索" },
-	"settingExploreNew": { "message": "新功能" },
+	"settingExploreFAQ": {
+		"message": "常见问题"
+	},
 	"headerInstructions": {
 		"message": "你只需要整理你的收藏夹，小舒同学就会自动帮你生成该页。"
 	},
 	"settingExploreChangelog": { "message": "更新日志" },
-	"settingExploreStar": { "message": "觉得不错？给5星好评！" },
+	"settingExploreStar": { "message": "我独自开发了小舒同学，并且现在没有工作，也没有任何收入。<br>如果你喜欢小舒同学，请给我一个五星好评！" },
 	"settingExploreAuthor": { "message": "作者" },
 	"settingCurrentVersion": { "message": "你当前的版本" },
 
@@ -176,5 +176,5 @@
 	"settingBackupExist": { "message": "当前配置备份已存在，要继续备份吗？" },
 	"flomoSetting": { "message": "配置" },
 
-	"toolBarNewFolder": { "message": "新建文件夹"}
+	"toolBarNewFolder": { "message": "新建文件夹" }
 }
