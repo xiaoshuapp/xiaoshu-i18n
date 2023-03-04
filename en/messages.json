@@ -1,6 +1,6 @@
 {
   "name": {
-    "message": "Xiaoshu - Tab-based Bookmarks"
+    "message": "Xiaoshu - Favorites-based Tab"
   },
   "title": {
     "message": "Xiaoshu"
@@ -287,6 +287,9 @@
   "settingExplore": {
     "message": "Explore"
   },
+  "settingExploreFAQ": {
+    "message": "FAQ"
+  },
   "settingExploreNew": {
     "message": "What's New"
   },
@@ -297,7 +300,7 @@
     "message": "Release Note"
   },
   "settingExploreStar": {
-    "message": "Like me? Rate 5 stars!"
+    "message": "I developed Xiaoshu on my own, and now I have no job and no income.<br>If you like Xiaoshu, please give me a five-star praise!"
   },
   "settingExploreAuthor": {
     "message": "Author"
