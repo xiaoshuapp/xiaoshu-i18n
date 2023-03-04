@@ -1,173 +1,419 @@
 {
-	"name": {
-		"message": "小舒同學 - 基于書簽的新建標簽頁"
-	},
-	"title": {
-		"message": "小舒同學"
-	},
-	"description": {
-		"message": "自動地用你的書簽生成一個新建分頁。"
-	},
-	"gotIt": {
-		"message": "我知道了"
-	},
-	"save": {
-		"message": "儲存"
-	},
-	"apply": {
-		"message": "應用"
-	},
-	"close": {
-		"message": "關閉"
-	},
-	"delete": {
-		"message": "刪除"
-	},
-	"done": {
-		"message": "完成"
-	},
-	"searchLabel": {
-		"message": "在這裏搜索🧐"
-	},
-	"headerTip": {
-		"message": "提示"
-	},
-	"headerDark": {
-		"message": "已關閉“暗色模式跟隨系統”"
-	},
-	"headerInstructions": {
-		"message": "你只需要整理你的瀏覽器書簽，小舒同學就會自動幫你生成此分頁。"
-	},
-	"windowFirst": {
-		"message": "設置爲首屏"
-	},
-	"cardSetting": {
-		"message": "卡片效果"
-	},
-	"cardSettingType": {
-		"message": "卡片顯示類型"
-	},
-	"cardSettingMargin": {
-		"message": "卡片間距"
-	},
-	"skinTheme": {
-		"message": "主題"
-	},
-	"skinWallpaperBing": {
-		"message": "Bing 每日壁紙"
-	},
-	"settingOver": {
-		"message": "配置保存成功"
-	},
-	"settingFail": {
-		"message": "配置保存失敗"
-	},
-	"settingSkin": {
-		"message": "自定義外觀"
-	},
-	"settingSkinColor": {
-		"message": "主要顔色"
-	},
-	"settingSkinDark": {
-		"message": "暗色模式跟隨系統"
-	},
-	"settingSkinWallpaper": {
-		"message": "背景圖片"
-	},
-	"settingSkinWallpaperLocal": {
-		"message": "上傳本地壁紙"
-	},
-	"settingDark": {
-		"message": "暗色模式"
-	},
-	"settingOther": {
-		"message": "其他設定"
-	},
-	"settingGeneral": {
-		"message": "一般設定"
-	},
-	"settingGeneralNewtab": {
-		"message": "開啟鏈結於新分頁"
-	},
-	"settingGeneralTransition": {
-		"message": "動畫效果"
-	},
-	"settingSenior": {
-		"message": "進階設定"
-	},
-	"settingLayout": {
-		"message": "自訂佈局"
-	},
-	"settingLayoutDes": {
-		"message": "你的設置效果會被實時的展示在頁面中。"
-	},
-	"settingLayoutAlignment": {
-		"message": "對齊方式"
-	},
-	"settingLayoutHeadLayout": {
-		"message": "頭部布局"
-	},
-	"settingLayoutSearchBoxWidth": {
-		"message": "搜索框寬度"
-	},
-	"settingLayoutFolderLayout": {
-		"message": "設定標題"
-	},
-	"settingLayoutDisplayFolderTitle": {
-		"message": "顯示標題"
-	},
-	"settingLayoutTitleMarginTop": {
-		"message": "標題頂部間隔大小"
-	},
-	"settingLayoutIconLayout": {
-		"message": "正方形卡片布局"
-	},
-	"settingLayoutDisplayIconTitle": {
-		"message": "顯示正方形卡片標題"
-	},
-	"settingLayoutCardLayout": {
-		"message": "卡片佈局"
-	},
-	"settingLayoutCardType": {
-		"message": "卡片顯示方式"
-	},
-	"settingLayoutCardTypeAuto": {
-		"message": "自動"
-	},
-	"settingLayoutCardTypeSquare": {
-		"message": "正方形"
-	},
-	"settingLayoutCardTypeRectangle": {
-		"message": "長方形"
-	},
-	"settingEngine": {
-		"message": "自訂搜索引擎"
-	},
-	"settingEngineYours": {
-		"message": "你的搜索引擎"
-	},
-	"settingEngineOther": {
-		"message": "其他搜索引擎"
-	},
-	"engineIcon": {
-		"message": "切換搜索引擎"
-	},
-	"engineChip": {
-		"message": "切換搜索引擎爲"
-	},
-	"engineQuick": {
-		"message": "臨時使用"
-	},
-	"flomoSetting": {
-		"message": "配置 flomo"
-	},
-	"flomoSend": {
-		"message": "發送至 flomo 並刪除"
-	},
-	"flomoUrl": {
-		"message": "查看"
-	},
-	"flomoText": {
-		"message": "在這裏寫寫你的感想吧"
-	}
+  "name": {
+    "message": "小舒同學 - 基于書簽的新建標簽頁"
+  },
+  "title": {
+    "message": "小舒同學"
+  },
+  "description": {
+    "message": "自動地用你的書簽生成一個新建分頁。"
+  },
+  "gotIt": {
+    "message": "我知道了"
+  },
+  "save": {
+    "message": "儲存"
+  },
+  "apply": {
+    "message": "應用"
+  },
+  "close": {
+    "message": "關閉"
+  },
+  "delete": {
+    "message": "刪除"
+  },
+  "done": {
+    "message": "完成"
+  },
+  "searchLabel": {
+    "message": "在這裏搜索🧐"
+  },
+  "headerDark": {
+    "message": "已關閉“暗色模式跟隨系統”"
+  },
+  "headerInstructions": {
+    "message": "你只需要整理你的瀏覽器書簽，小舒同學就會自動幫你生成此分頁。"
+  },
+  "cardSetting": {
+    "message": "卡片效果"
+  },
+  "cardSettingType": {
+    "message": "卡片顯示類型"
+  },
+  "cardSettingMargin": {
+    "message": "卡片間距"
+  },
+  "settingOver": {
+    "message": "配置保存成功"
+  },
+  "settingFail": {
+    "message": "配置保存失敗"
+  },
+  "settingSkinDark": {
+    "message": "暗色模式跟隨系統"
+  },
+  "settingDark": {
+    "message": "暗色模式"
+  },
+  "settingOther": {
+    "message": "其他設定"
+  },
+  "settingGeneralNewtab": {
+    "message": "開啟鏈結於新分頁"
+  },
+  "settingGeneralTransition": {
+    "message": "動畫效果"
+  },
+  "settingSenior": {
+    "message": "進階設定"
+  },
+  "settingLayoutDes": {
+    "message": "你的設置效果會被實時的展示在頁面中。"
+  },
+  "settingLayoutAlignment": {
+    "message": "對齊方式"
+  },
+  "settingLayoutHeadLayout": {
+    "message": "頭部布局"
+  },
+  "settingLayoutSearchBoxWidth": {
+    "message": "搜索框寬度"
+  },
+  "settingLayoutFolderLayout": {
+    "message": "設定標題"
+  },
+  "settingLayoutTitleMarginTop": {
+    "message": "標題頂部間隔大小"
+  },
+  "settingLayoutCardLayout": {
+    "message": "卡片佈局"
+  },
+  "settingEngine": {
+    "message": "自訂搜索引擎"
+  },
+  "settingEngineYours": {
+    "message": "你的搜索引擎"
+  },
+  "settingEngineOther": {
+    "message": "其他搜索引擎"
+  },
+  "engineIcon": {
+    "message": "切換搜索引擎"
+  },
+  "engineChip": {
+    "message": "切換搜索引擎爲"
+  },
+  "engineQuick": {
+    "message": "臨時使用"
+  },
+  "flomoSetting": {
+    "message": "配置 flomo"
+  },
+  "accountLogin": {
+    "message": "登錄"
+  },
+  "accountLoginNeeded": {
+    "message": "請先登錄後使用該功能"
+  },
+  "accountLoginSuccess": {
+    "message": "登錄成功"
+  },
+  "accountLogout": {
+    "message": "註銷登錄"
+  },
+  "add": {
+    "message": "添加"
+  },
+  "areyousure": {
+    "message": "你確定嗎？"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "cardSettingIcon": {
+    "message": "卡片圖標"
+  },
+  "catalogToTop": {
+    "message": "回到頂部"
+  },
+  "confirm": {
+    "message": "確認"
+  },
+  "des": {
+    "message": "描述"
+  },
+  "enabled": {
+    "message": "已啟用"
+  },
+  "folderSetting": {
+    "message": "文件夾效果"
+  },
+  "groupCol": {
+    "message": "多欄"
+  },
+  "groupColOne": {
+    "message": "單欄"
+  },
+  "groupColThree": {
+    "message": "三欄"
+  },
+  "groupColTwo": {
+    "message": "雙欄"
+  },
+  "groupEmpty": {
+    "message": "你的收藏夾沒有內容，點擊地址欄的星星圖標添加書籤<br />或者往下拉，添加別人分享的收藏夾吧！"
+  },
+  "groupOpenAll": {
+    "message": "打開所有一級卡片"
+  },
+  "groupOrderDateAdded": {
+    "message": "添加時間"
+  },
+  "groupOrderDrag": {
+    "message": "拖動模式"
+  },
+  "groupOrderProgress": {
+    "message": "進度正序"
+  },
+  "groupOrderProgressReverse": {
+    "message": "進度倒序"
+  },
+  "groupOrderTitle": {
+    "message": "標題正序"
+  },
+  "groupRemove": {
+    "message": "你確定要刪除嗎？"
+  },
+  "ignore": {
+    "message": "忽略"
+  },
+  "market": {
+    "message": "市場"
+  },
+  "meteor_description": {
+    "message": "Meteor New Tab 基於你的收藏夾內容，讓你的收藏夾在標籤頁上一目了然"
+  },
+  "meteor_name": {
+    "message": "Meteor New Tab - 讓你的收藏夾再次偉大"
+  },
+  "meteor_title": {
+    "message": "Meteor"
+  },
+  "mine": {
+    "message": "我的"
+  },
+  "myShare": {
+    "message": "我分享的"
+  },
+  "next": {
+    "message": "下一步"
+  },
+  "praise": {
+    "message": "去好評"
+  },
+  "prev": {
+    "message": "上一步"
+  },
+  "settingBackup": {
+    "message": "數據備份"
+  },
+  "settingBackupBtn": {
+    "message": "立即備份"
+  },
+  "settingBackupDelete": {
+    "message": "確定刪除該備份嗎？"
+  },
+  "settingBackupExist": {
+    "message": "當前配置備份已存在，要繼續備份嗎？"
+  },
+  "settingBackupRestore": {
+    "message": "即將覆蓋當前數據，確定嗎？"
+  },
+  "settingBackupTip": {
+    "message": "我們最多保留最近 7 份備份數據"
+  },
+  "settingBanner": {
+    "message": "頭部橫幅"
+  },
+  "settingBannerAdd": {
+    "message": "添加橫幅"
+  },
+  "settingBannerYours": {
+    "message": "你的橫幅"
+  },
+  "settingBookmark": {
+    "message": "收藏夾"
+  },
+  "settingBookmarkAutoFirst": {
+    "message": "根目錄書籤自動提前到最頂部"
+  },
+  "settingBookmarkGrid": {
+    "message": "收藏夾佈局"
+  },
+  "settingBookmarkGridDes": {
+    "message": "越大容納的圖標越多"
+  },
+  "settingCardEdit": {
+    "message": "編輯"
+  },
+  "settingCardEditDateAdded": {
+    "message": "添加時間："
+  },
+  "settingCardEditNowPage": {
+    "message": "當前進度"
+  },
+  "settingCardEditTotalPage": {
+    "message": "總進度"
+  },
+  "settingCardMove": {
+    "message": "移動"
+  },
+  "settingCurrentVersion": {
+    "message": "你當前的版本"
+  },
+  "settingCustom": {
+    "message": "個性化"
+  },
+  "settingCustomColor": {
+    "message": "主要顏色"
+  },
+  "settingCustomTheme": {
+    "message": "主題"
+  },
+  "settingCustomWallpaper": {
+    "message": "壁紙"
+  },
+  "settingCustomWallpaperAnimation": {
+    "message": "動漫 @Wallpaper Abyss"
+  },
+  "settingCustomWallpaperBing": {
+    "message": "Bing 每日壁紙"
+  },
+  "settingCustomWallpaperGame": {
+    "message": "遊戲 @Wallpaper Abyss"
+  },
+  "settingCustomWallpaperLocal": {
+    "message": "使用本地壁紙"
+  },
+  "settingCustomWallpaperMinimalize": {
+    "message": "極簡 @wickedbackground"
+  },
+  "settingCustomWallpaperSpecial": {
+    "message": "特殊"
+  },
+  "settingCustomWallpaperSpecialACG": {
+    "message": "隨機 ACG 壁紙 @toubiec"
+  },
+  "settingCustomWallpaperSpecialBing": {
+    "message": "Bing 每日壁紙 @paugram"
+  },
+  "settingCustomWallpaperUpload": {
+    "message": "上傳壁紙"
+  },
+  "settingCustomWallpaperXiaoshu": {
+    "message": "小舒專屬 @oceanzhuo"
+  },
+  "settingDrawerMode": {
+    "message": "抽屜模式"
+  },
+  "settingDrawerModeDes": {
+    "message": "僅顯示根目錄書籤，打開快速目錄或下滑展開其他書籤"
+  },
+  "settingEffector": {
+    "message": "效果器"
+  },
+  "settingEffectorEmpty": {
+    "message": "清空你啟用的效果器"
+  },
+  "settingEffectorTip": {
+    "message": "為你的小舒同學添加額外效果，比如隱藏某些功能。\n注：效果器由用戶提交，不保證可用性"
+  },
+  "settingEngineAdd": {
+    "message": "添加搜索引擎"
+  },
+  "settingEngineAddButton": {
+    "message": "添加"
+  },
+  "settingEngineAddUrl": {
+    "message": "URL（比如：https://bing.com/search?q=%s，需要帶%s）"
+  },
+  "settingEngineSaved": {
+    "message": "修改成功！\n請記得保存"
+  },
+  "settingEngineSubmit": {
+    "message": "分享到市場"
+  },
+  "settingExplore": {
+    "message": "探索"
+  },
+  "settingExploreAuthor": {
+    "message": "作者"
+  },
+  "settingExploreChangelog": {
+    "message": "更新日誌"
+  },
+  "settingExploreNew": {
+    "message": "新功能"
+  },
+  "settingExploreStar": {
+    "message": "覺得不錯？\n給5星好評！"
+  },
+  "settingGeneralAutoFocus": {
+    "message": "搜索框自動獲取焦點"
+  },
+  "settingGeneralOverride": {
+    "message": "覆蓋新標籤頁"
+  },
+  "settingGroup": {
+    "message": "組/文件夾"
+  },
+  "settingGroupDisplay": {
+    "message": "隱藏"
+  },
+  "settingGroupLayout": {
+    "message": "佈局效果"
+  },
+  "settingGroupShow": {
+    "message": "是否折疊該分組"
+  },
+  "settingGroupWindow": {
+    "message": "設置為新的屏幕"
+  },
+  "settingGroupWindowSaved": {
+    "message": "已被設為新的屏幕"
+  },
+  "settingHome": {
+    "message": "設置"
+  },
+  "settingLayoutStrip12": {
+    "message": "超長條形卡片"
+  },
+  "settingMore": {
+    "message": "更多設置"
+  },
+  "settingMoreCatalog": {
+    "message": "快速目錄"
+  },
+  "settingMoreCatalogRight": {
+    "message": "快速目錄靠右"
+  },
+  "settingNote": {
+    "message": "筆記設置"
+  },
+  "starTip": {
+    "message": "你已經使用了一段時間了，來給個好評吧！"
+  },
+  "submit": {
+    "message": "提交"
+  },
+  "submitSuccess": {
+    "message": "提交成功，請等待審核"
+  },
+  "titleX": {
+    "message": "標題"
+  },
+  "toolBarNewFolder": {
+    "message": "新建文件夾"
+  }
 }

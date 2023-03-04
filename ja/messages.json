@@ -386,22 +386,34 @@
   "flomoSetting": {
     "message": "flomoの設定"
   },
-  "settingLayoutCardTypeSquare": {
-    "message": ""
+  "cancel": {
+    "message": "キャンセル"
   },
-  "settingLayoutDisplayFolderTitle": {
-    "message": ""
-  },
-  "settingLayoutDisplayIconTitle": {
-    "message": ""
-  },
-  "settingLayoutIconLayout": {
-    "message": ""
-  },
-  "settingSkin": {
-    "message": ""
+  "confirm": {
+    "message": "確認"
   },
   "des": {
-    "message": ""
+    "message": "説明"
+  },
+  "enabled": {
+    "message": "アクティブ化"
+  },
+  "prev": {
+    "message": "前"
+  },
+  "settingCardMove": {
+    "message": "動く"
+  },
+  "settingCustomWallpaperUpload": {
+    "message": "壁紙をアップロードする"
+  },
+  "settingGeneralAutoFocus": {
+    "message": "検索ボックスが自動的にフォーカスされる"
+  },
+  "settingGeneralOverride": {
+    "message": "新しいタブ ページを上書きする"
+  },
+  "toolBarNewFolder": {
+    "message": "新しいフォルダ"
   }
 }
