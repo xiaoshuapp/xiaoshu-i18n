@@ -29,9 +29,6 @@
   "close": {
     "message": "閉じる"
   },
-  "closeTip": {
-    "message": "設定は保存されません"
-  },
   "delete": {
     "message": "削除"
   },
@@ -77,41 +74,14 @@
   "accountLogin": {
     "message": "ログイン"
   },
-  "accountLoginDes": {
-    "message": "より多くの機能のロックを解除する"
-  },
   "accountLoginNeeded": {
     "message": "この機能を使用するには、ログインする必要があります。"
-  },
-  "accountLoginEmailError": {
-    "message": "入力されたメールアドレスは有効なメールアドレスではないようです。"
   },
   "accountLogout": {
     "message": "ログオフ"
   },
   "accountLoginSuccess": {
     "message": "ログイン成功"
-  },
-  "accountLoginWithGithub": {
-    "message": "GitHubでログイン"
-  },
-  "accountLoginTip": {
-    "message": "手前のメールから手動でブラウザにコピーしてください。メールはゴミ箱にケース内に作成されます。"
-  },
-  "accountFeature1": {
-    "message": "高清めのアイコン"
-  },
-  "accountFeature2": {
-    "message": "ブックマークの順序"
-  },
-  "accountFeature3": {
-    "message": "データのバックアップ"
-  },
-  "accountFeature4": {
-    "message": "検索エンジンやエフェクトをシェア"
-  },
-  "accountFeature": {
-    "message": "……"
   },
   "groupEmpty": {
     "message": "ブックマークが存在しないため、アドレス バーの 1 つアイコンをクリックしてブックマークを追加<br />またはプルダウンしてお気に入りに追加してください。"

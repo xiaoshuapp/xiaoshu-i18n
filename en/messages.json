@@ -29,9 +29,6 @@
 	"close": {
 		"message": "Close"
 	},
-	"closeTip": {
-		"message": "Your settings will not be saved"
-	},
 	"delete": {
 		"message": "Delete"
 	},
@@ -77,41 +74,14 @@
 	"accountLogin": {
 		"message": "Login"
 	},
-	"accountLoginDes": {
-		"message": "To unlock more features"
-	},
 	"accountLoginNeeded": {
 		"message": "Please log in to use this feature"
-	},
-	"accountLoginEmailError": {
-		"message": "It does not seem to be a valid email address"
 	},
 	"accountLogout": {
 		"message": "Logout"
 	},
 	"accountLoginSuccess": {
 		"message": "Login successful"
-	},
-	"accountLoginWithGithub": {
-		"message": "Login with GitHub"
-	},
-	"accountLoginTip": {
-		"message": "Please manually copy the link received in the email to the browser opening. The email may be in the spam box of the email."
-	},
-	"accountFeature1": {
-		"message": "Higher luxury icon"
-	},
-	"accountFeature2": {
-		"message": "Bookmark sorting"
-	},
-	"accountFeature3": {
-		"message": "Backups"
-	},
-	"accountFeature4": {
-		"message": "Search engine, effect share"
-	},
-	"accountFeature": {
-		"message": "Continue to add…"
 	},
 	"groupEmpty": {
 		"message": "There is no content in your favorites. Click the star icon in the address bar to add bookmarks<br/> or drag down to add favorites shared by others!"
